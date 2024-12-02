@@ -1,0 +1,12 @@
+{
+  "name": "eth-phish-filterlist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+     "convert": "node scripts/convert-list.js"
+  },
+  "keywords": ["phishing-list"],
+  "author": "kdenhartog@brave.com",
+  "license": "MPL-2.0",
+  "description": "This convert's metamasks"
+}
