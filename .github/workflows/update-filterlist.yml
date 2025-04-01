@@ -1,0 +1,42 @@
+name: Update ETH Phishing Filterlist
+
+on:
+  schedule:
+    # Run every 30 minutes
+    - cron: "*/30 * * * *"
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-filterlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed for pushing changes
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Run conversion script
+        run: npm run convert
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code filterlist/eth-phishing-list.filter || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if changes exist
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add filterlist/eth-phishing-list.filter
+          git commit -m "Auto-update ETH phishing filterlist [skip ci]"
+          git push
