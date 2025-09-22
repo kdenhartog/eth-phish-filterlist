@@ -6843,9 +6843,11 @@
 ||access-stockwiz.icu^$all
 ||access-token-nodeportal.pages.dev^$all
 ||access-token-secure.pages.dev^$all
+||access-uphold-com-login-en-us.pages.dev^$all
 ||access-uphold-com-s-cdn.webflow.io^$all
 ||access-uphold-doc.pages.dev^$all
 ||access-uphold-login-eng-us.pages.dev^$all
+||access-uphold-wallet-help-us.pages.dev^$all
 ||access-verifty.home-321.3-142-83-241.cprapid.com^$all
 ||access-virtuals.app^$all
 ||access-wallet-uphold-eng.pages.dev^$all
@@ -12089,6 +12091,7 @@
 ||app-kamino-icom.zohosites.com^$all
 ||app-kamino-icom1.zohosites.com^$all
 ||app-kamino.finance^$all
+||app-kamino.pro^$all
 ||app-kamino.se.net^$all
 ||app-karak.pro^$all
 ||app-katana-network.xyz^$all
@@ -12560,6 +12563,7 @@
 ||app-uphld.webflow.io^$all
 ||app-uphoeld-account.pages.dev^$all
 ||app-uphold-com---cdn--x-auth.webflow.io^$all
+||app-uphold-com-auth.pages.dev^$all
 ||app-uphold-login.pages.dev^$all
 ||app-upshift.finance^$all
 ||app-urisvvap.net^$all
@@ -14242,6 +14246,7 @@
 ||arbitrumdefi.xyz^$all
 ||arbitrumdigital.xyz^$all
 ||arbitrumdrip.net^$all
+||arbitrumdrip.org^$all
 ||arbitrumdrop.pages.dev^$all
 ||arbitrumetf.com^$all
 ||arbitrumetf.xyz^$all
@@ -44812,7 +44817,9 @@
 ||en-1innch-wallet.teachable.com^$all
 ||en-adrome.finance^$all
 ||en-alldappsfix.pages.dev^$all
+||en-app--uphold--com-auth.pages.dev^$all
 ||en-app-upheld-io.pages.dev^$all
+||en-app-uphold-com-auth.pages.dev^$all
 ||en-apps---phantome---com---auth.webflow.io^$all
 ||en-apps--phantome--com--auth.webflow.io^$all
 ||en-apps-phantom--extension.webflow.io^$all
@@ -45261,7 +45268,9 @@
 ||eng-sso-krakencom-cdn--oauth.webflow.io^$all
 ||eng-suit-trzor-auth.pages.dev^$all
 ||eng-uphold-com-log.teachable.com^$all
+||eng-uphold-com-login.pages.dev^$all
 ||eng-uphold-login.pages.dev^$all
+||eng-uphold-us.pages.dev^$all
 ||eng-uphold.pages.dev^$all
 ||eng-walletcnect.gitbook.io^$all
 ||eng-web-metamask-chrome.teachable.com^$all
@@ -48947,6 +48956,7 @@
 ||firmwareledger-live.com^$all
 ||firmwarenode.pages.dev^$all
 ||first-ticketsapp.pages.dev^$all
+||first-uphold-login-account-eng-us.pages.dev^$all
 ||first-uphold-wallet-eng-us.pages.dev^$all
 ||firstapexmarkets.com^$all
 ||firstcapitalmarket.org.megawealthfinance.com^$all
@@ -55104,6 +55114,7 @@
 ||help-trustwalletlive.vercel.app^$all
 ||help-up-hold-en-doc.pineapple.page^$all
 ||help-uphld-com-cdn-auth.webflow.io^$all
+||help-uphold-com.pages.dev^$all
 ||help-uphold-com.pineapple.page^$all
 ||help-uphold-log-x.pages.dev^$all
 ||help-uphold-login.pages.dev^$all
@@ -62767,6 +62778,7 @@
 ||leaconcapitalltd.com^$all
 ||lead-cosmetisy.pages.dev^$all
 ||leaderboarduniswaportfolio.app^$all
+||leading--account--uphold.pages.dev^$all
 ||leagueofkingdom-bridge.pages.dev^$all
 ||leagueofkingdoms-bridge-dst.pages.dev^$all
 ||leagueoftraders-airdrop.io^$all
@@ -64757,6 +64769,7 @@
 ||login_conbase.godaddysites.com^$all
 ||login_e_coinbase.godaddysites.com^$all
 ||login_usa_coinbase.godaddysites.com^$all
+||login----uphld.pages.dev^$all
 ||login---walletconnect.gitbook.io^$all
 ||login--uphold.pages.dev^$all
 ||login--walletconnectt.gitbook.io^$all
@@ -91014,6 +91027,7 @@
 ||portal-uphold-autth-web.typedream.app^$all
 ||portal-uphold-cdn-auth.weebly.com^$all
 ||portal-uphold-com-cdn.typedream.app^$all
+||portal-uphold-eng.pages.dev^$all
 ||portal-uphold-login-eng-us.pages.dev^$all
 ||portal-uphold-login-sso.pages.dev^$all
 ||portal-uphold-wallet-x-us.pages.dev^$all
@@ -93044,6 +93058,7 @@
 ||public-trezor-suite.square.site^$all
 ||public-up-hold-auth.pages.dev^$all
 ||public-upheld-cdn.newzenler.com^$all
+||public-uphldlogin-account.pages.dev^$all
 ||public-uphold-com-n-a-auth.webflow.io^$all
 ||public-uphold-en.pages.dev^$all
 ||public-us-trezo-cdn.teachable.com^$all
@@ -117692,6 +117707,7 @@
 ||uphhhold-loga.webflow.io^$all
 ||uphhold-loghin.pages.dev^$all
 ||uphhold-login.pages.dev^$all
+||uphhold-wallett.pages.dev^$all
 ||uphholdlogin.gitbook.io^$all
 ||uphhuldlogginniusaa.godaddysites.com^$all
 ||uphild-legxin.gitbook.io^$all
@@ -117750,13 +117766,16 @@
 ||uphold-anthem.com^$all
 ||uphold-ap.pages.dev^$all
 ||uphold-app-en.pages.dev^$all
+||uphold-app-eng-us.pages.dev^$all
 ||uphold-app-review.pages.dev^$all
 ||uphold-apps.pages.dev^$all
 ||uphold-automatic.ru^$all
 ||uphold-cloud-cdn.typedream.app^$all
+||uphold-cndn.pages.dev^$all
 ||uphold-com--cdnn---auth-en-us.webflow.io^$all
 ||uphold-com-cdn--x--authh.webflow.io^$all
 ||uphold-com-logiin.pages.dev^$all
+||uphold-com-loginn.pages.dev^$all
 ||uphold-com.pages.dev^$all
 ||uphold-comloggii.pages.dev^$all
 ||uphold-comlogin.godaddysites.com^$all
@@ -117785,6 +117804,7 @@
 ||uphold-logi-io.pages.dev^$all
 ||uphold-logiin-en.pages.dev^$all
 ||uphold-login-account-eng-us.pages.dev^$all
+||uphold-login-account-io.pages.dev^$all
 ||uphold-login-ask.pages.dev^$all
 ||uphold-login-cdn-us.pages.dev^$all
 ||uphold-login-doc.pages.dev^$all
@@ -117957,6 +117977,7 @@
 ||upholitdlogin.gitbook.io^$all
 ||upholitlogin.gitbook.io^$all
 ||upholld-logim.webflow.io^$all
+||upholld-login-acountt.pages.dev^$all
 ||upholld-loginf-usa.godaddysites.com^$all
 ||upholld-logiusd.godaddysites.com^$all
 ||upholld-logxn.gitbook.io^$all
@@ -127429,6 +127450,7 @@
 ||www-vercenodle.pages.dev^$all
 ||www-volt.xyz^$all
 ||www-voltxvm.xyz^$all
+||www-w.xyz^$all
 ||www-walletconnect-push.eidoo.io^$all
 ||www-www.walletconnect-push.eidoo.io^$all
 ||www-xaman-app.com^$all
