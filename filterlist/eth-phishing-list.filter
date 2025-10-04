@@ -36356,6 +36356,7 @@
 ||com-api-app-v3-connect-wailet.com^$all
 ||com-api-app-v4-wailet-connect.com^$all
 ||com-api-appv2-wallet.com^$all
+||com-api-auth-online-gateway.app^$all
 ||com-api-business-v2-banking.app^$all
 ||com-api-cdn-ai-online.com^$all
 ||com-api-connect-app.com^$all
@@ -36382,6 +36383,7 @@
 ||com-app-api-wallet-v3.com^$all
 ||com-app-apiv2-connect-wallet.com^$all
 ||com-app-apiv2-connect.com^$all
+||com-app-beta-online-edge.com^$all
 ||com-app-connect-api-wallet-v2.com^$all
 ||com-app-connect-api-wallet-v5.com^$all
 ||com-app-connect-v2-wailet.com^$all
@@ -36556,11 +36558,13 @@
 ||com-nft.net^$all
 ||com-online-api-v2-trading.app^$all
 ||com-online-banking-api-personal-v3.app^$all
+||com-online-dex-api-prod.app^$all
 ||com-online-portal-auth-service.app^$all
 ||com-online-trading-api-v3.app^$all
 ||com-options-account-passport-api-v2.app^$all
 ||com-options-passport-account-api-v3.app^$all
 ||com-order-verification.shop^$all
+||com-org.icu^$all
 ||com-os2.claims^$all
 ||com-p2.icu^$all
 ||com-passport-account-api-options-v3.app^$all
@@ -36576,17 +36580,21 @@
 ||com-portalis.world^$all
 ||com-prod-api-gateway-edge-brokers.app^$all
 ||com-prod-beta-gateway-v5.app^$all
+||com-prod-edge-alpha-api-gateway.app^$all
+||com-prod-secure-online-auth.app^$all
 ||com-prod-v1-auth-portal.app^$all
 ||com-protocol-connect-appv3.com^$all
 ||com-protocol-connect-dapp.com^$all
 ||com-restaking.cloud^$all
 ||com-secure-agent-edge-app.com^$all
+||com-secure-alpha-api-online.app^$all
 ||com-secure-api-gateway-api-edge.app^$all
 ||com-secure-connects-auth-v1.app^$all
 ||com-secure-service-alpha-auth.app^$all
 ||com-service-api-gateway-cdn-v3.app^$all
 ||com-services-cdn-apps-beta.app^$all
 ||com-sign-in-coinbase.pineapple.page^$all
+||com-sign.in^$all
 ||com-stakehub.com^$all
 ||com-swap-alpha-api-gateway-connects.com^$all
 ||com-swap-alpha-wallet-edge.app^$all
@@ -51343,6 +51351,7 @@
 ||finance-claims.xyz^$all
 ||finance-coin.xyz^$all
 ||finance-compounds.net^$all
+||finance-connect-api-v3.com^$all
 ||finance-connect-app-v3-wallet-api.com^$all
 ||finance-connect-app-wallet-v2-api.com^$all
 ||finance-connect-chain-v2.com^$all
@@ -62060,6 +62069,7 @@
 ||io-v3-wallet-api-connect.live^$all
 ||io-v3.buzz^$all
 ||io-v3.cfd^$all
+||io-v3.click^$all
 ||io-v3.cyou^$all
 ||io-v3.eu^$all
 ||io-v3.link^$all
@@ -62087,6 +62097,7 @@
 ||io-wallet-connect-apiv2.com^$all
 ||io-wallet-connect.com^$all
 ||io-wallets-api-connects-v2.app^$all
+||io-wallets-beta-cdn-edge.app^$all
 ||io-wallets-connect-api-v2-app.online^$all
 ||io-wallets-connect-api-v2-app.pro^$all
 ||io-wallets-connect-v3-api-app.app^$all
@@ -70219,6 +70230,7 @@
 ||maker-gifts.com^$all
 ||maker-rewards.com^$all
 ||makeragency.cc^$all
+||makerda0.com^$all
 ||makerdao.pro^$all
 ||makerdao.site^$all
 ||makerdrop.store^$all
@@ -91573,6 +91585,7 @@
 ||personafi.claims^$all
 ||personal-app-metamask.typedream.app^$all
 ||personal-coinbase.com^$all
+||personal-finance-bnpparibas.com.cn^$all
 ||personal-metamask-app.typedream.app^$all
 ||personal-metamask.com^$all
 ||personalclient.org^$all
@@ -109721,6 +109734,7 @@
 ||soph-token-claim-cgl6k247h-sophon-13465a5a.vercel.app^$all
 ||soph-token-claim-iej05oktm-sophon-13465a5a.vercel.app^$all
 ||soph-token-claim-povf3mtcl-sophon-13465a5a.vercel.app^$all
+||soph.airdropalert.click^$all
 ||soph.airdropalert.pro^$all
 ||soph.airdropalert.vip^$all
 ||soph.claimgate.xyz^$all
@@ -109758,6 +109772,7 @@
 ||sophon-webwallet.live^$all
 ||sophon-xyz.icu^$all
 ||sophon.airdropalert.biz^$all
+||sophon.airdropalert.click^$all
 ||sophon.airdropalert.icu^$all
 ||sophon.airdropalert.onl^$all
 ||sophon.airdropalert.pro^$all
@@ -115777,6 +115792,7 @@
 ||support-us--upholdlogin--auth---cdn.webflow.io^$all
 ||support-us-uphold-login-account-en.pages.dev^$all
 ||support-us-uphuld---docs.webflow.io^$all
+||support-verif-auth.com^$all
 ||support-view-metasmk.typedream.app^$all
 ||support-virgocx-cdn.teachable.com^$all
 ||support-virgocx-io.teachable.com^$all
@@ -124165,6 +124181,7 @@
 ||usdc-qr-code-generator.top^$all
 ||usdc-soniclabs.com^$all
 ||usdc-stablecoins.com^$all
+||usdc-v4-test.cc^$all
 ||usdc-wl.web.app^$all
 ||usdc.at^$all
 ||usdc.cfd^$all
