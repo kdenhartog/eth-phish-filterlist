@@ -2592,6 +2592,7 @@
 ||acc-krakenn-en.pages.dev^$all
 ||acc-login-coinbase.pages.dev^$all
 ||acc-moompay.wixstudio.com^$all
+||acc-moonpaycdn.wixstudio.com^$all
 ||acc-trezorr-wallet.pages.dev^$all
 ||acccess-cnbase-proauth.daftpage.com^$all
 ||acccess-rabbywalllet.framer.website^$all
@@ -3477,7 +3478,6 @@
 ||ag-dex-cdn-online-api.ltd^$all
 ||ag-dex-gateway-wallet-app.pro^$all
 ||ag-dft.cyou^$all
-||ag-edge-alpha-wallets-api-gateway.cloud^$all
 ||ag-edge-portal-connect-gateway.ltd^$all
 ||ag-edge-secure-cdn-api-gateway.pro^$all
 ||ag-gateway-api-swap-beta.ltd^$all
@@ -7702,7 +7702,6 @@
 ||arya-stability-restrict-licensee-user.de.employeenavigator.net^$all
 ||arzenowctmkojfxaedg3ixpicm2siwck4j3aq5wx7mqolzm72ygq.arweave.net^$all
 ||as--krakenlogin-app.webflow.io^$all
-||as-wallet-v3.app^$all
 ||as-zoom.us^$all
 ||asafetracker.com^$all
 ||asala.live^$all
@@ -8527,6 +8526,7 @@
 ||auth-mfa.net^$all
 ||auth-mitamask-logn.framer.media^$all
 ||auth-mitamaskio.framer.ai^$all
+||auth-monpay.wixstudio.com^$all
 ||auth-moonpay-cdn.my.canva.site^$all
 ||auth-moonpay-cdn.webflow.io^$all
 ||auth-moonpay-log-in.webflow.io^$all
@@ -13803,6 +13803,7 @@
 ||cdn-login-coinbase-pro.webflow.io^$all
 ||cdn-metamask-log.tem3.io^$all
 ||cdn-metamasklgn-sso.tem3.io^$all
+||cdn-moonpay-logns.wixstudio.com^$all
 ||cdn-moonpay-sso-auth.webflow.io^$all
 ||cdn-my-live-degen-login.mystrikingly.com^$all
 ||cdn-origin-auth.norlys-kraken.systems^$all
@@ -15398,7 +15399,6 @@
 ||claim-lighter.io^$all
 ||claim-linea.com^$all
 ||claim-linhmai.pages.dev^$all
-||claim-link-koma.pages.dev^$all
 ||claim-liquid.pages.dev^$all
 ||claim-littlepepe.online^$all
 ||claim-littlepepe.xyz^$all
@@ -15691,7 +15691,6 @@
 ||claim.aave-io.vip^$all
 ||claim.acrossprotocol.world^$all
 ||claim.acrossprotocols.world^$all
-||claim.alloranetwork.icu^$all
 ||claim.aprio.life^$all
 ||claim.aster-dex.pw^$all
 ||claim.asterrewards.pro^$all
@@ -16060,7 +16059,6 @@
 ||claims-snortertoken.com^$all
 ||claims-snortertoken.live^$all
 ||claims-solan.org^$all
-||claims-solana.pages.dev^$all
 ||claims-solana.top^$all
 ||claims-stable.app^$all
 ||claims-stable.xyz^$all
@@ -19965,7 +19963,6 @@
 ||collab-care.online^$all
 ||collab-dapp-nodes.online^$all
 ||collab-dapps-land.com^$all
-||collab-dapps-nodes.online^$all
 ||collab-hq.online^$all
 ||collab-land-chainx.com^$all
 ||collab-land-deploy.vercel.app^$all
@@ -20386,7 +20383,6 @@
 ||com-dex-secure-auth-beta.ltd^$all
 ||com-dex-secure-portal-api-gateway.pro^$all
 ||com-dex-swap-connect-api-gateway.cloud^$all
-||com-dex-v5-api-beta.cloud^$all
 ||com-dfhahsudisa.com^$all
 ||com-discount.cc^$all
 ||com-discounts.com^$all
@@ -20397,7 +20393,6 @@
 ||com-dream11.com^$all
 ||com-dskjadnsakpikiasuu.com^$all
 ||com-dynamic-solution.lol^$all
-||com-edge-api-gateway-portal-trade.cloud^$all
 ||com-edge-api-gateway-service-gateway.pro^$all
 ||com-edge-api-secure-portal.pro^$all
 ||com-edge-auth-beta-trading.pro^$all
@@ -20672,7 +20667,6 @@
 ||com-pop.info^$all
 ||com-portal-api-connects-cdn.pro^$all
 ||com-portal-api-gateway-v4-wallet.pro^$all
-||com-portal-auth-alpha-service.cloud^$all
 ||com-portal-beta-app-api-gateway.pro^$all
 ||com-portal-beta-gateway-corp.pro^$all
 ||com-portal-beta-prod-api-gateway.pro^$all
@@ -25750,6 +25744,7 @@
 ||docs-phantom.pages.dev^$all
 ||docs-rabby.framer.media^$all
 ||docs-raydium-wallet-cdn.typedream.app^$all
+||docs-solana.com^$all
 ||docs-sso-moonpay----cdn.gitbook.io^$all
 ||docs-stellar.pages.dev^$all
 ||docs-trust.pages.dev^$all
@@ -28296,6 +28291,7 @@
 ||en-metamssk-wallet.typedream.app^$all
 ||en-metamusk-web.framer.ai^$all
 ||en-metmask-io.pages.dev^$all
+||en-moonpey-cdn.wixstudio.com^$all
 ||en-mymonero.gr.com^$all
 ||en-netx.pages.dev^$all
 ||en-official-exdaust.pages.dev^$all
@@ -28796,6 +28792,7 @@
 ||eng-metmsskio-us-web.pages.dev^$all
 ||eng-moonpay-auth.my.canva.site^$all
 ||eng-moonpay-cdn.my.canva.site^$all
+||eng-moonpaycdn.wixstudio.com^$all
 ||eng-okx.com^$all
 ||eng-orca-finance.pages.dev^$all
 ||eng-phantom-com.pages.dev^$all
@@ -33445,7 +33442,6 @@
 ||finance-aml.com^$all
 ||finance-api-api-gateway-prod-gateway.pro^$all
 ||finance-api-cdn-dex-alpha.pro^$all
-||finance-api-cdn-services-dex.cloud^$all
 ||finance-api-gateway-api-apps-portal.ltd^$all
 ||finance-api-gateway-apps-api-secure.pro^$all
 ||finance-api-gateway-auth-swap-secure.pro^$all
@@ -33575,7 +33571,6 @@
 ||finance-secure-connects-cdn-staking.pro^$all
 ||finance-secure-dex-alpha-app.pro^$all
 ||finance-secure-dex-wallet-portal.pro^$all
-||finance-secure-portal-services-api-gateway.cloud^$all
 ||finance-secure-service-alpha-dex.pro^$all
 ||finance-secure-staking-gateway-api-gateway.pro^$all
 ||finance-service-app-connects-v4.pro^$all
@@ -33916,7 +33911,6 @@
 ||flamintr.com^$all
 ||flantorexo.net^$all
 ||flappyphantom.com^$all
-||flar.network^$all
 ||flare-4xx.pages.dev^$all
 ||flare-6he.pages.dev^$all
 ||flare-9ed7e60ab7a5069ce-voting.web.app^$all
@@ -34002,7 +33996,6 @@
 ||flarenetwork-xrp.finance^$all
 ||flarenetwork.foundation^$all
 ||flarenetworkappportal.pages.dev^$all
-||flarenetworkglobal.net^$all
 ||flarenetworking.shop^$all
 ||flarenetworkltd.online^$all
 ||flarenetworkmainnet.app^$all
@@ -37711,7 +37704,6 @@
 ||hash256dotorg.com^$all
 ||hashelot.com^$all
 ||hashkxjt.com^$all
-||hashpack-apps.pages.dev^$all
 ||hashpack-cloud.created.app^$all
 ||hashpack-world.created.app^$all
 ||hashpackdesktop.net^$all
@@ -43570,6 +43562,7 @@
 ||kaminofinancs.com^$all
 ||kaminofinancs.software^$all
 ||kaminofinence.github.io^$all
+||kaminofnd.biz^$all
 ||kaminoi.finance^$all
 ||kaminomigrate.world^$all
 ||kaminoo-live.com^$all
@@ -51765,7 +51758,6 @@
 ||lineabuildsfdn.xyz^$all
 ||lineabulidcheck.xyz^$all
 ||lineachecker.pages.dev^$all
-||lineaclaim.live^$all
 ||lineacreate.xyz^$all
 ||lineafund.xyz^$all
 ||lineandbox.com.site2preview.com^$all
@@ -54985,7 +54977,6 @@
 ||megaeht.click^$all
 ||megaehth.com^$all
 ||megaelh.xyz^$all
-||megaeth-allocation.net^$all
 ||megaeth-allocation.org^$all
 ||megaeth-bridge.com^$all
 ||megaeth-bridges.com^$all
@@ -56768,6 +56759,7 @@
 ||metamskkexttsiiosne.gitbook.io^$all
 ||metamskkk.framer.media^$all
 ||metamsklaogun.gitbook.io^$all
+||metamsklogec.gitbook.io^$all
 ||metamsklogex.gitbook.io^$all
 ||metamsklogi.wixstudio.com^$all
 ||metamsklogigo.gitbook.io^$all
@@ -57992,6 +57984,7 @@
 ||mintcampaign2.vercel.app^$all
 ||mintcampaign4.vercel.app^$all
 ||mintcampaign6.vercel.app^$all
+||mintcampaign7.vercel.app^$all
 ||mintcampaign8.vercel.app^$all
 ||mintcampaign9.vercel.app^$all
 ||mintchain-mainnet.pages.dev^$all
@@ -58550,6 +58543,7 @@
 ||mo-exchange.com^$all
 ||moadox.com^$all
 ||moanpay-cdn-sso-autth.my.canva.site^$all
+||moanpey.wixstudio.com^$all
 ||moavax.com^$all
 ||mob-desk-raydium-dex.pages.dev^$all
 ||mobbyyt.club^$all
@@ -59270,6 +59264,7 @@
 ||moonpay-auth-login.webflow.io^$all
 ||moonpay-b7d.pages.dev^$all
 ||moonpay-cdn.my.canva.site^$all
+||moonpay-cdn.wixstudio.com^$all
 ||moonpay-commerce-git-kristammoffett-culkin-com2-3d05ed-heliofi.vercel.app^$all
 ||moonpay-commerce-git-wallet-connect-tues-eve-heliofi.vercel.app^$all
 ||moonpay-contact.pages.dev^$all
@@ -59900,7 +59895,6 @@
 ||mt-foundation.pro^$all
 ||mt-on-es.com^$all
 ||mta-metamask.com^$all
-||mta-sts.mail.psychicconnexions.com^$all
 ||mta-sts.prokraken.app^$all
 ||mta-sts.secure.stellarlumenstrust.com^$all
 ||mta1.shofarnexus.com^$all
@@ -62539,7 +62533,6 @@
 ||nullpointerlabs.ru^$all
 ||nullsyndicate.ru^$all
 ||number-ai.top^$all
-||nunavikgovernment.ca^$all
 ||nurebet.com^$all
 ||nusewin.cc^$all
 ||nusewin.com^$all
@@ -64081,6 +64074,7 @@
 ||openseaclaim-mu.vercel.app^$all
 ||openseaclicks10k.vercel.app^$all
 ||openseaclicks1k.vercel.app^$all
+||openseaclicks4k.vercel.app^$all
 ||openseaclicks6k.vercel.app^$all
 ||openseaclicks7k.vercel.app^$all
 ||openseacui.vercel.app^$all
@@ -64845,7 +64839,6 @@
 ||p1-penguinonsol.com^$all
 ||p2-firelight.app^$all
 ||p2-flare.network^$all
-||p2-hourglass.app^$all
 ||p2-liminal.com^$all
 ||p2-megaeth.com^$all
 ||p2-om.ru^$all
@@ -66922,7 +66915,6 @@
 ||plasma-core.pages.dev^$all
 ||plasma-domains.gitbook.io^$all
 ||plasma-drift.pages.dev^$all
-||plasma-eth.xyz^$all
 ||plasma-fdn.xyz^$all
 ||plasma-flow.pages.dev^$all
 ||plasma-foundation.net^$all
@@ -67405,7 +67397,6 @@
 ||poloniexdex.com^$all
 ||poloniextrones.com^$all
 ||polpegasus.xyz^$all
-||polpool.top^$all
 ||polriksobotiks-ai.net^$all
 ||polso-capitenza.sbs^$all
 ||polumorket.xyz^$all
@@ -67851,7 +67842,6 @@
 ||polypoker.fun^$all
 ||polypoker.io^$all
 ||polypoker.live^$all
-||polypool.top^$all
 ||polyprime.live^$all
 ||polypusd.com^$all
 ||polypusd.nexus^$all
@@ -69034,8 +69024,10 @@
 ||premium0peanseamint1.vercel.app^$all
 ||premium0peanseamint10.vercel.app^$all
 ||premium0peanseamint2.vercel.app^$all
+||premium0peanseamint3.vercel.app^$all
 ||premium0peanseamint4.vercel.app^$all
 ||premium0peanseamint5.vercel.app^$all
+||premium0peanseamint6.vercel.app^$all
 ||premium0peanseamint7.vercel.app^$all
 ||premium0peanseamint8.vercel.app^$all
 ||premium0peanseamint9.vercel.app^$all
@@ -72171,7 +72163,6 @@
 ||raid-ledger.com^$all
 ||raidium.io^$all
 ||raidyum.com^$all
-||raiffeisen-connexion.org^$all
 ||raigen-trade.net^$all
 ||raiglun.org^$all
 ||raigun.org^$all
@@ -77188,6 +77179,7 @@
 ||secure-moonpay-oauth.mystrikingly.com^$all
 ||secure-moonpay-sso.webflow.io^$all
 ||secure-moonpaylogin-auth.my.canva.site^$all
+||secure-munpay-logn.wixstudio.com^$all
 ||secure-musk-wallet-nav.pages.dev^$all
 ||secure-my---sso--login-moonpay.webflow.io^$all
 ||secure-nansenai.tech^$all
@@ -82272,6 +82264,7 @@
 ||staging.phantom-support-verification.net^$all
 ||staging.shitcoinbase.net^$all
 ||staging.upholdf.com^$all
+||staging.wirexpay.w3us.site^$all
 ||stake-aave.us^$all
 ||stake-apyx.com^$all
 ||stake-aztec.network^$all
@@ -83806,7 +83799,6 @@
 ||super-secure-tunnel-link.cfd^$all
 ||super-union-f1e3.aedfv.workers.dev^$all
 ||super89-kraken.pages.dev^$all
-||superai-hub.github.io^$all
 ||superai.app^$all
 ||superai.ca^$all
 ||superai.cc^$all
@@ -88530,6 +88522,7 @@
 ||trustwallet1.cn^$all
 ||trustwallet1k.mystrikingly.com^$all
 ||trustwallet2.com^$all
+||trustwallet2.usokxa.com^$all
 ||trustwallet2026.org^$all
 ||trustwallet3.com^$all
 ||trustwallet4.com^$all
@@ -90273,6 +90266,7 @@
 ||twicedaily.org^$all
 ||twilight-brook-45f5.wsf4e.workers.dev^$all
 ||twittersrv-appeal-x.com^$all
+||twlfinsecure.com^$all
 ||twlfisecure.com^$all
 ||twoboobsofficial.xyz^$all
 ||twofactor-coinbase.app^$all
@@ -92069,7 +92063,6 @@
 ||us-phomtqs-walet.pages.dev^$all
 ||us-phomtqs-wallet.pages.dev^$all
 ||us-polymarkets.com^$all
-||us-pool.top^$all
 ||us-postal-ledger.com^$all
 ||us-qr-code-generator.com^$all
 ||us-raydium-wallet.pages.dev^$all
@@ -95384,6 +95377,7 @@
 ||view-krakinpro.wixstudio.com^$all
 ||view-krukan-en.pages.dev^$all
 ||view-listings.org^$all
+||view-moanpey-cdn.wixstudio.com^$all
 ||view-moonpey.wixstudio.com^$all
 ||view-page-metamask-log.daftpage.com^$all
 ||view-private.markets^$all
