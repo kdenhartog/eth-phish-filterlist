@@ -2775,6 +2775,7 @@
 ||aaamwg-auth.com^$all
 ||aaaventures.net^$all
 ||aahdjjsivunugynqjvyfbhqnjekniyfboma.com^$all
+||aap-exoduswallet-help-sso.webflow.io^$all
 ||aapkeapp.in^$all
 ||aapyx.com^$all
 ||aauth---trazorr.gitbook.io^$all
@@ -5900,9 +5901,17 @@
 ||app----auth----exoduswallet-sso.webflow.io^$all
 ||app----auth-exoduswallet--sso.webflow.io^$all
 ||app----exoduswallet--autth.webflow.io^$all
+||app----exoduswallet-auths.webflow.io^$all
+||app----exoduswallet-autth.webflow.io^$all
 ||app----home-trust.webflow.io^$all
+||app---auth-exoduswallet---sso-index.webflow.io^$all
+||app---auth-exoduswallet-auth.webflow.io^$all
+||app---auth-exoduswallet-sso---index.webflow.io^$all
+||app---auth-exoduswallet-sso.webflow.io^$all
+||app---exodus-wallet--auths.webflow.io^$all
 ||app---exodus-wallet--autth.webflow.io^$all
 ||app---exoduswallet---auths.webflow.io^$all
+||app---exoduswallet-h.webflow.io^$all
 ||app---home---trust.webflow.io^$all
 ||app---home--trust.webflow.io^$all
 ||app---home-en----exodus-app.webflow.io^$all
@@ -5910,11 +5919,16 @@
 ||app---trust-com.webflow.io^$all
 ||app---trust-secure.webflow.io^$all
 ||app---waltrust.gitbook.io^$all
+||app--auth--index-exoduswallet-sso.webflow.io^$all
+||app--auth-exoduswallet-sso---index.webflow.io^$all
+||app--auth-exoduswallet-sso--index.webflow.io^$all
+||app--exoduswallet--autth.webflow.io^$all
 ||app--exxodus-web.pages.dev^$all
 ||app--home---trust.webflow.io^$all
 ||app--home-trust.webflow.io^$all
 ||app--kamino.finance^$all
 ||app--ledgerwallet.com^$all
+||app--m-home-exoduswallet-sso.webflow.io^$all
 ||app--orgtrezor-authu.gitbook.io^$all
 ||app--orgtrezor-hrdawre.gitbook.io^$all
 ||app--suites-oi.pages.dev^$all
@@ -5988,7 +6002,9 @@
 ||app-atlasora.xyz^$all
 ||app-atomic.io^$all
 ||app-auth----exoduswallet----sso.webflow.io^$all
+||app-auth----exoduswallet-io--index.webflow.io^$all
 ||app-auth----exoduswallet-sso----index.webflow.io^$all
+||app-auth----exoduswallet-sso-index.webflow.io^$all
 ||app-auth---exoduswallet--so.webflow.io^$all
 ||app-auth-exodus-app-app.webflow.io^$all
 ||app-auth-exodus-wallet-sso--index.webflow.io^$all
@@ -6196,6 +6212,8 @@
 ||app-exodus.io^$all
 ||app-exodus.us.com^$all
 ||app-exodus.xyz^$all
+||app-exoduswallet-----autth.webflow.io^$all
+||app-exoduswallet-web3.webflow.io^$all
 ||app-exodusweb.pages.dev^$all
 ||app-extended.xyz^$all
 ||app-extrafi.org^$all
@@ -6857,6 +6875,7 @@
 ||app-wallet-rabby.com^$all
 ||app-walletconnects.info^$all
 ||app-walletconnects.web.app^$all
+||app-wallett.com^$all
 ||app-walllet.com^$all
 ||app-waltrus.gitbook.io^$all
 ||app-wardenprotocol.xyz^$all
@@ -7323,6 +7342,10 @@
 ||approvals-coinbase.com^$all
 ||approvals-wasabi.xyz^$all
 ||apps---exodus-apps-exodus.webflow.io^$all
+||apps---exoduswallet-auutth.webflow.io^$all
+||apps---exoduswallet-com.webflow.io^$all
+||apps---home--exoduswallet--m--index.webflow.io^$all
+||apps--exoduswallet---com.webflow.io^$all
 ||apps--exoduswallet--autth.webflow.io^$all
 ||apps--phantom-us.pages.dev^$all
 ||apps-40acres.xyz^$all
@@ -7341,7 +7364,10 @@
 ||apps-arbitrum.xyz^$all
 ||apps-asksurf.xyz^$all
 ||apps-astar.xyz^$all
+||apps-auth---exoduswallet---sso.webflow.io^$all
+||apps-auth---exoduswallett--sso.webflow.io^$all
 ||apps-auth-coinbase.webflow.io^$all
+||apps-auth-exoduswallet--sso.webflow.io^$all
 ||apps-backpack.xyz^$all
 ||apps-bancor.xyz^$all
 ||apps-base-extension.wixstudio.com^$all
@@ -7387,6 +7413,7 @@
 ||apps-exodues.wixstudio.com^$all
 ||apps-exodus-wallet-help.webflow.io^$all
 ||apps-exodus.wixstudio.com^$all
+||apps-exoduswallet---autth.webflow.io^$all
 ||apps-extension.wixstudio.com^$all
 ||apps-firelight.xyz^$all
 ||apps-flare.xyz^$all
@@ -7413,6 +7440,7 @@
 ||apps-kaminofinance.com^$all
 ||apps-kelpdao.com^$all
 ||apps-kintsu.xyz^$all
+||apps-koinbase-cdn.wixstudio.com^$all
 ||apps-koinbazewllt.wixstudio.com^$all
 ||apps-kraikan.wixstudio.com^$all
 ||apps-krakeen-en-usportel.typedream.app^$all
@@ -8698,6 +8726,7 @@
 ||auth-exodus-web3.wixstudio.com^$all
 ||auth-exodust.pages.dev^$all
 ||auth-exoduswallet-app.webflow.io^$all
+||auth-exoduswallet-extension.gitbook.io^$all
 ||auth-exoduswallet-sso-index.webflow.io^$all
 ||auth-exodusweb3-io.pages.dev^$all
 ||auth-freedom-accountverify.net^$all
@@ -9793,6 +9822,7 @@
 ||base-pm.ru^$all
 ||base-pro-app.wixstudio.com^$all
 ||base-project-515.pages.dev^$all
+||base-qoinext.wixstudio.com^$all
 ||base-refunds.com^$all
 ||base-reward.pages.dev^$all
 ||base-rewards.claimnexo.live^$all
@@ -9917,6 +9947,7 @@
 ||basedscan.io^$all
 ||basedx.biz^$all
 ||basedx.one^$all
+||basee-extension-apps.wixstudio.com^$all
 ||baseeotc.site^$all
 ||baseextension-help-browser.pages.dev^$all
 ||baseextension-help-en.pages.dev^$all
@@ -14050,7 +14081,6 @@
 ||celestiaprizes.com^$all
 ||celestias.stakingsreward.club^$all
 ||celgam.com^$all
-||celia-finance.pages.dev^$all
 ||celiawallet.app^$all
 ||celibit.com^$all
 ||celibratrade93.com^$all
@@ -17360,6 +17390,7 @@
 ||coinbase-en-extension.framer.ai^$all
 ||coinbase-en-live.pages.dev^$all
 ||coinbase-en-login.pages.dev^$all
+||coinbase-en-us.wixstudio.com^$all
 ||coinbase-en.wixstudio.com^$all
 ||coinbase-encryptiontrade.com^$all
 ||coinbase-encryptiontrade.info^$all
@@ -17857,7 +17888,9 @@
 ||coinbase-wallets-stablecoin.vercel.app^$all
 ||coinbase-wallets-token.vercel.app^$all
 ||coinbase-wallets.blogspot.com^$all
+||coinbase-wallett-extension.gitbook.io^$all
 ||coinbase-wallett.godaddysites.com^$all
+||coinbase-walletui.gitbook.io^$all
 ||coinbase-walletxtension.gitbook.io^$all
 ||coinbase-wallrktscorn.com^$all
 ||coinbase-web3-wall.wixstudio.com^$all
@@ -18173,6 +18206,7 @@
 ||coinbaseepro-loginusa.mystrikingly.com^$all
 ||coinbaseeprologin.gitbook.io^$all
 ||coinbaseeprologinn.mystrikingly.com^$all
+||coinbaseeprolugiinn.gitbook.io^$all
 ||coinbaseeproologin.mystrikingly.com^$all
 ||coinbaseer.com^$all
 ||coinbaseewallet.pages.dev^$all
@@ -18553,6 +18587,7 @@
 ||coinbasewalletverify.com^$all
 ||coinbasewalltapp.pages.dev^$all
 ||coinbasewalut.mystrikingly.com^$all
+||coinbaseweb-wallets.com^$all
 ||coinbaseweb.bz^$all
 ||coinbaseweb3.cc^$all
 ||coinbaseweb3wallets.com^$all
@@ -23708,7 +23743,6 @@
 ||devmontannasuniswap-clone.vercel.app^$all
 ||devpiler.com^$all
 ||devpulsestarternod.pages.dev^$all
-||devscrap.best^$all
 ||devshub.online^$all
 ||dewomlexpro.net^$all
 ||dex-account-rayyidum.pages.dev^$all
@@ -23962,6 +23996,7 @@
 ||digital-cc.digital^$all
 ||digital-coinbase.online^$all
 ||digital-coinbaspro-login.pages.dev^$all
+||digital-exoduswallet.webflow.io^$all
 ||digital-flare.xyz^$all
 ||digital-joinzoom.us^$all
 ||digital-krakne-cdn.framer.ai^$all
@@ -25889,6 +25924,7 @@
 ||eexodus-wallet.pages.dev^$all
 ||eexodus-web3-wellet.webflow.io^$all
 ||eexodusloginsn.webflow.io^$all
+||eexoduswallets.webflow.io^$all
 ||eexodusweb.pages.dev^$all
 ||eexodusweb3wallt.gitbook.io^$all
 ||eexoduswebbwallet.pages.dev^$all
@@ -26820,6 +26856,7 @@
 ||en--phant-omsole.pages.dev^$all
 ||en--phantom--wallet.pages.dev^$all
 ||en--sso--coinbasepro--app--x--auth.webflow.io^$all
+||en--sso--coinbasepro--w--auth--cdn.webflow.io^$all
 ||en--sso--coinbasepro--x--cdn--x--auth.webflow.io^$all
 ||en--sso--coinbasepro-cdn---xz--auth.webflow.io^$all
 ||en--sso-coinbasepro--auth--r--cdn.webflow.io^$all
@@ -30456,6 +30493,7 @@
 ||exodus-wallet-asian.pages.dev^$all
 ||exodus-wallet-auth.github.io^$all
 ||exodus-wallet-auth.pages.dev^$all
+||exodus-wallet-autth.webflow.io^$all
 ||exodus-wallet-bun.pages.dev^$all
 ||exodus-wallet-cc.pages.dev^$all
 ||exodus-wallet-cdn.vercel.app^$all
@@ -30495,9 +30533,12 @@
 ||exodus-wallet-exlor.pages.dev^$all
 ||exodus-wallet-exo.pages.dev^$all
 ||exodus-wallet-explor.pages.dev^$all
+||exodus-wallet-extension-328e58.webflow.io^$all
+||exodus-wallet-extensionn.webflow.io^$all
 ||exodus-wallet-extensn.pages.dev^$all
 ||exodus-wallet-extns.youware.app^$all
 ||exodus-wallet-exts.vercel.app^$all
+||exodus-wallet-fgdder.webflow.io^$all
 ||exodus-wallet-gaslimit.vercel.app^$all
 ||exodus-wallet-guide.pages.dev^$all
 ||exodus-wallet-help.pages.dev^$all
@@ -30512,8 +30553,10 @@
 ||exodus-wallet-instru.pages.dev^$all
 ||exodus-wallet-insts.pages.dev^$all
 ||exodus-wallet-io-co.pages.dev^$all
+||exodus-wallet-io-us.vercel.app^$all
 ||exodus-wallet-io-web3.pages.dev^$all
 ||exodus-wallet-io.pages.dev^$all
+||exodus-wallet-io.webflow.io^$all
 ||exodus-wallet-ion.pages.dev^$all
 ||exodus-wallet-ios.pages.dev^$all
 ||exodus-wallet-isuper.pages.dev^$all
@@ -30522,12 +30565,17 @@
 ||exodus-wallet-learn.pages.dev^$all
 ||exodus-wallet-link.pages.dev^$all
 ||exodus-wallet-load.youware.app^$all
+||exodus-wallet-login-dg.webflow.io^$all
+||exodus-wallet-login-ff.webflow.io^$all
 ||exodus-wallet-login-ffd.webflow.io^$all
+||exodus-wallet-login-fgdx.webflow.io^$all
+||exodus-wallet-login-fghdf.webflow.io^$all
 ||exodus-wallet-login-us-en.square.site^$all
 ||exodus-wallet-login-vcf.webflow.io^$all
 ||exodus-wallet-login.gitbook.io^$all
 ||exodus-wallet-login.pages.dev^$all
 ||exodus-wallet-logiu.webflow.io^$all
+||exodus-wallet-logn.webflow.io^$all
 ||exodus-wallet-onfo.pages.dev^$all
 ||exodus-wallet-ons.pages.dev^$all
 ||exodus-wallet-overview.pages.dev^$all
@@ -30566,9 +30614,12 @@
 ||exodus-walletes.pages.dev^$all
 ||exodus-walletess.pages.dev^$all
 ||exodus-walletext.wixstudio.com^$all
+||exodus-walletextension.webflow.io^$all
+||exodus-walleti.webflow.io^$all
 ||exodus-walletio-access.youware.app^$all
 ||exodus-walletio.webflow.io^$all
 ||exodus-walletio.youware.app^$all
+||exodus-walletlogn.webflow.io^$all
 ||exodus-wallets-ah0.pages.dev^$all
 ||exodus-wallets.app^$all
 ||exodus-wallets.pages.dev^$all
@@ -30734,6 +30785,7 @@
 ||exodus66.vip^$all
 ||exodusa-logi-t.godaddysites.com^$all
 ||exodusapp-en.wixstudio.com^$all
+||exodusawalleta.webflow.io^$all
 ||exodusbase.org^$all
 ||exodusbest.pages.dev^$all
 ||exodusbit.com^$all
@@ -30788,14 +30840,19 @@
 ||exodusl.co.com^$all
 ||exoduslawr.gitbook.io^$all
 ||exoduslogiinwes.godaddysites.com^$all
+||exoduslogin.webflow.io^$all
 ||exodusloginacbd.webflow.io^$all
+||exodusloginaf.webflow.io^$all
+||exodusloginbc.webflow.io^$all
 ||exoduslogindf.webflow.io^$all
 ||exoduslogindh.webflow.io^$all
 ||exodusloginfr.webflow.io^$all
 ||exoduslogingd.webflow.io^$all
+||exodusloginghu.webflow.io^$all
 ||exodusloginh.webflow.io^$all
 ||exodusloginn.godaddysites.com^$all
 ||exodusloginsg.webflow.io^$all
+||exodusloginvg.webflow.io^$all
 ||exodusloginy.webflow.io^$all
 ||exodusmarket.io^$all
 ||exodusmarkettrade.com^$all
@@ -30867,6 +30924,7 @@
 ||exodussupport.cercel.app^$all
 ||exodussupport.fercel.app^$all
 ||exodussupport.vercel.app^$all
+||exodusswalletx.webflow.io^$all
 ||exodusswalt.wixstudio.com^$all
 ||exodussweb-access-doc.pages.dev^$all
 ||exodussweb.pages.dev^$all
@@ -30899,6 +30957,7 @@
 ||exoduswalet.wixstudio.com^$all
 ||exoduswaletl0ginn.webflow.io^$all
 ||exoduswaletq.vercel.app^$all
+||exoduswallet---auth.webflow.io^$all
 ||exoduswallet-cc.pages.dev^$all
 ||exoduswallet-com-co.pages.dev^$all
 ||exoduswallet-com.pages.dev^$all
@@ -30914,20 +30973,33 @@
 ||exoduswallet.youware.app^$all
 ||exoduswallet3.pages.dev^$all
 ||exoduswalletat.wordpress.com^$all
+||exoduswalletb.webflow.io^$all
 ||exoduswalletcc.pages.dev^$all
 ||exoduswalletcew3.webflow.io^$all
 ||exoduswalletcew3uu.webflow.io^$all
+||exoduswalletd.webflow.io^$all
 ||exoduswalleted.gitbook.io^$all
+||exoduswalleted.webflow.io^$all
+||exoduswalletextensionn.webflow.io^$all
 ||exoduswalletextensions.webflow.io^$all
 ||exoduswalletez.webflow.io^$all
 ||exoduswalletf.webflow.io^$all
+||exoduswalletfghlogin.webflow.io^$all
+||exoduswalletflogin.webflow.io^$all
 ||exoduswallethelp.com^$all
 ||exoduswalleti.webflow.io^$all
+||exoduswalletiis.webflow.io^$all
 ||exoduswalletkzi.webflow.io^$all
+||exoduswalletl.webflow.io^$all
 ||exoduswalletlgogin.webflow.io^$all
+||exoduswalletlgoin.webflow.io^$all
 ||exoduswalletlogiin.webflow.io^$all
 ||exoduswalletlogin.gitbook.io^$all
+||exoduswalletlogin.webflow.io^$all
 ||exoduswalletloginb.gitbook.io^$all
+||exoduswalletloginc.webflow.io^$all
+||exoduswalletlogind.webflow.io^$all
+||exoduswalletloginef.webflow.io^$all
 ||exoduswalletlogingt.webflow.io^$all
 ||exoduswalletloginko.webflow.io^$all
 ||exoduswalletloginn.godaddysites.com^$all
@@ -30935,17 +31007,25 @@
 ||exoduswalletlogn.webflow.io^$all
 ||exoduswalletlovc.webflow.io^$all
 ||exoduswalletoogin.gitbook.io^$all
+||exoduswalletre.webflow.io^$all
 ||exoduswallets.godaddysites.com^$all
 ||exoduswallets.net^$all
 ||exoduswallets.netlify.app^$all
 ||exoduswallett.pages.dev^$all
 ||exoduswallettflogin.webflow.io^$all
+||exoduswallettllo.webflow.io^$all
+||exoduswallettlloeceb.webflow.io^$all
 ||exoduswallettlogin.webflow.io^$all
+||exoduswalletts.webflow.io^$all
 ||exoduswallettte.webflow.io^$all
+||exoduswallettu.webflow.io^$all
+||exoduswalletungin.webflow.io^$all
 ||exoduswalletus.wordpress.com^$all
 ||exoduswalletusua.webflow.io^$all
 ||exoduswalletverificationweb3.com^$all
+||exoduswalletvf.webflow.io^$all
 ||exoduswalletweb3.webflow.io^$all
+||exoduswalletweb3gf.webflow.io^$all
 ||exoduswalletx.webflow.io^$all
 ||exoduswalletx.wordpress.com^$all
 ||exoduswalletxlogin.webflow.io^$all
@@ -31331,6 +31411,7 @@
 ||extension-coiinbze.wixstudio.com^$all
 ||extension-coin-chorme.pages.dev^$all
 ||extension-coin.wixstudio.com^$all
+||extension-coinbase-auth.gitbook.io^$all
 ||extension-coinbase-auth.pages.dev^$all
 ||extension-coinbase-cds.pages.dev^$all
 ||extension-coinbase-en.framer.ai^$all
@@ -31547,6 +31628,7 @@
 ||exxoduwlet.wixstudio.com^$all
 ||exxodwallet.wixstudio.com^$all
 ||exxosuswlte.wixstudio.com^$all
+||exxt--coinbase-help.gitbook.io^$all
 ||exxtension-trust.wixstudio.com^$all
 ||exxxoduswewallet.pages.dev^$all
 ||eycarry.com^$all
@@ -35202,7 +35284,6 @@
 ||get-mstr.net^$all
 ||get-nexi.org^$all
 ||get-ofc.org^$all
-||get-okx-listings.com^$all
 ||get-okx.com.cn^$all
 ||get-ondo.xyz^$all
 ||get-opened-raydium-wallet.pages.dev^$all
@@ -36732,6 +36813,7 @@
 ||grovestay.com^$all
 ||grow-cloudflare.de^$all
 ||grow-right.ltd^$all
+||grow3.pages.dev^$all
 ||growarb.com^$all
 ||growclaudeai.com^$all
 ||growclaudeai.fun^$all
@@ -38205,6 +38287,7 @@
 ||home-eigenlayerb.gitbook.io^$all
 ||home-eigenlayerr.gitbook.io^$all
 ||home-eignlayyer.gitbook.io^$all
+||home-en---exodus-app.webflow.io^$all
 ||home-en--suite-trezor.pages.dev^$all
 ||home-en-bridge-trzor.pages.dev^$all
 ||home-en-coinbase-start-login.pages.dev^$all
@@ -43792,6 +43875,7 @@
 ||koi-finance.pages.dev^$all
 ||koin-base-login.pages.dev^$all
 ||koin-base-pro.pages.dev^$all
+||koin-extension-apps.wixstudio.com^$all
 ||koin-extension.wixstudio.com^$all
 ||koinabaseprolgin.godaddysites.com^$all
 ||koinbase-browser-ext.wixstudio.com^$all
@@ -43882,6 +43966,7 @@
 ||kpab4.at^$all
 ||kpcq9qvdd.trump.successhacker.org^$all
 ||kper-chainlink.com^$all
+||kper.network^$all
 ||kpk.capital^$all
 ||kpkgg.pages.dev^$all
 ||kpkgg6.com^$all
@@ -44974,6 +45059,7 @@
 ||krakrenlogins.webflow.io^$all
 ||krakrenulogin.webflow.io^$all
 ||krakryp.com^$all
+||kraksite-cc.pages.dev^$all
 ||krakssylka.cc^$all
 ||kraksupport-cc.pages.dev^$all
 ||kraksupport.cc^$all
@@ -55055,6 +55141,8 @@
 ||moyaking.xyz^$all
 ||moyu-b10.xyz^$all
 ||moyu-rewards.xyz^$all
+||moz-extension-getstarted-coinbase-extension.pages.dev^$all
+||moz-extension-getstarted-coinbase.pages.dev^$all
 ||moz-extension-rabby-onboarding.pages.dev^$all
 ||mozgalom-finlore.com^$all
 ||mp-metamax.online^$all
@@ -55497,6 +55585,9 @@
 ||my---coinbasepro-w--cdn--auth.webflow.io^$all
 ||my---web-moonpay-login.webflow.io^$all
 ||my--exodus-co.pages.dev^$all
+||my--exoduswallet--web.webflow.io^$all
+||my--sso--coinbasepro--cdn--auth.webflow.io^$all
+||my--sso--exoduswallet-cdn-auth.webflow.io^$all
 ||my--sso--kraken--cdn-auth.webflow.io^$all
 ||my--web-moonpay-login.webflow.io^$all
 ||my-aaxe-app.com^$all
@@ -55510,6 +55601,7 @@
 ||my-changelly.gr.com^$all
 ||my-coinbase-clone-01.netlify.app^$all
 ||my-coinbase.info^$all
+||my-coinbasepro-login-sso-authz.webflow.io^$all
 ||my-coinbasepro.pages.dev^$all
 ||my-crypto-wallet.xyz^$all
 ||my-dapp-center.com^$all
@@ -56173,6 +56265,7 @@
 ||nav-exodus-web.pages.dev^$all
 ||nav-exodus.pages.dev^$all
 ||nav-exoduss-auth.pages.dev^$all
+||nav-extension-apps.wixstudio.com^$all
 ||nav-exxodus.wixstudio.com^$all
 ||nav-global-metamask.wixstudio.com^$all
 ||nav-karken.wixstudio.com^$all
@@ -60341,6 +60434,7 @@
 ||page--trezor-suit.pages.dev^$all
 ||page--trst-io.pages.dev^$all
 ||page-app-exodus-web3wallet.pages.dev^$all
+||page-apps-extension.wixstudio.com^$all
 ||page-cloud-startt-hardware-io.pages.dev^$all
 ||page-coinbase-com-cdn.pages.dev^$all
 ||page-coinbase.com^$all
@@ -60378,7 +60472,6 @@
 ||page-verification-completed.top^$all
 ||page-verify.bond^$all
 ||page-xsoduss-web.pages.dev^$all
-||page.ct.ws^$all
 ||pageairdrop-wormhole.pages.dev^$all
 ||pageblue-verify.click^$all
 ||pageblue-verify.help^$all
@@ -60717,7 +60810,6 @@
 ||pay-trust.cc^$all
 ||pay-trustcards.com^$all
 ||pay-tw.org^$all
-||pay.cbas.top^$all
 ||pay.ceinbase.xyz^$all
 ||pay.coinbase-payments.cloud^$all
 ||pay.coinbase-s.com^$all
@@ -65406,6 +65498,7 @@
 ||pub-krakenlogin.pages.dev^$all
 ||pubicstole.media^$all
 ||pubiic.space^$all
+||publi-extensinapps.wixstudio.com^$all
 ||public----coinbase--cdn.webflow.io^$all
 ||public---coinpro-learn.webflow.io^$all
 ||public---help-coinbase-sso-cdn.webflow.io^$all
@@ -65858,7 +65951,6 @@
 ||pumpfun-info.live^$all
 ||pumpfun-swap.click^$all
 ||pumpfun-swap.com^$all
-||pumpfun-treasure.info^$all
 ||pumpfun-treasure.org^$all
 ||pumpfun.digital^$all
 ||pumpfun.gr.com^$all
@@ -66240,6 +66332,7 @@
 ||qc-168.com^$all
 ||qc3siu.sbs^$all
 ||qcardactivation-pcq-egdjadadandsadgs.camore.help^$all
+||qcoinbaseparoloigu.gitbook.io^$all
 ||qcore-kiln.com^$all
 ||qcore.finance^$all
 ||qdmtsl.com^$all
@@ -72113,6 +72206,7 @@
 ||secure-etoro.org^$all
 ||secure-exm1y.icu^$all
 ||secure-exodus-io.pages.dev^$all
+||secure-exodus-wallet-auth.webflow.io^$all
 ||secure-exodus-wallet.mystrikingly.com^$all
 ||secure-exodus-we-b3.pages.dev^$all
 ||secure-exodus-web3wallet.pages.dev^$all
@@ -73394,6 +73488,7 @@
 ||sister.night.com.de^$all
 ||sisvida.com^$all
 ||site------exodus------us---cdn.mystrikingly.com^$all
+||site-----exoduswallet-----us---cdn.webflow.io^$all
 ||site---coinbasepro---ff-sso.webflow.io^$all
 ||site---coinbasepro-ss-sso.webflow.io^$all
 ||site---uphold-sso-cd.typedream.app^$all
@@ -76226,6 +76321,7 @@
 ||sso--eng--coinbasepro---cdn--n--auth.webflow.io^$all
 ||sso--eng-coin-base--x-cdnx.typedream.app^$all
 ||sso--exodus--com-x-nav-auth.pages.dev^$all
+||sso--exodusweb3-wollet.webflow.io^$all
 ||sso--feq--coinbasepro--cdn---b--auth.webflow.io^$all
 ||sso--feq--coinbasepro--cdn---h--auth.webflow.io^$all
 ||sso--hold-uphold-so.weebly.com^$all
@@ -76238,6 +76334,7 @@
 ||sso--official--kraken-com--auth.webflow.io^$all
 ||sso--secure--coinbasepro---auth.webflow.io^$all
 ||sso--secure--coinbasepro-cdn-i-autth.webflow.io^$all
+||sso--secure--coinbasepro-cdn-oauth.webflow.io^$all
 ||sso--secure--coinbasepro-ed.webflow.io^$all
 ||sso--siuwalet.pages.dev^$all
 ||sso--trezor-io-logn-en.typedream.app^$all
@@ -76370,6 +76467,7 @@
 ||sso-secure-metamask-wb.pages.dev^$all
 ||sso-secure-uphold-login.typedream.app^$all
 ||sso-sin-coinbase-com-x-auth.typedream.app^$all
+||sso-site-coinbasepro-w-auth.webflow.io^$all
 ||sso-siu-walet.pages.dev^$all
 ||sso-siuwalet.pages.dev^$all
 ||sso-start-io-trezor-en.typedream.app^$all
@@ -78364,6 +78462,7 @@
 ||supplymetamask.com^$all
 ||suppoertphantomwaglet.gitbook.io^$all
 ||suppoman-rewards.xyz^$all
+||support---exodus----cdn.webflow.io^$all
 ||support--coinbase.ph^$all
 ||support--moonpay-com--net.webflow.io^$all
 ||support-2fa.com^$all
@@ -79328,6 +79427,7 @@
 ||tea-votes.com^$all
 ||tea-voting.com^$all
 ||teacex.com^$all
+||teach-basepro.wixstudio.com^$all
 ||teach-suites-trzre.pages.dev^$all
 ||teacl-uphild-web.created.app^$all
 ||teadux.com^$all
@@ -79825,7 +79925,6 @@
 ||testttdomain-com-0de77e.pages.dev^$all
 ||testturing.tur.onl^$all
 ||testtwfin8.best^$all
-||testughu.pages.dev^$all
 ||testwallet.info^$all
 ||testweb.btsutodk.top^$all
 ||testwlt.site^$all
@@ -86552,6 +86651,7 @@
 ||unibase-ai.com^$all
 ||unibizuixinjage.com.cn^$all
 ||unibtc.run^$all
+||unicap.finance^$all
 ||unicardsoficial.net^$all
 ||unicareers.org^$all
 ||unicdn.b-cdn.net^$all
@@ -86747,6 +86847,7 @@
 ||uniswap.trustline.id^$all
 ||uniswap.university^$all
 ||uniswap.uzheths.blockchain-group.ch^$all
+||uniswap.web3kit.site^$all
 ||uniswap11.netlify.app^$all
 ||uniswapapp.digital^$all
 ||uniswapbase.com^$all
@@ -91361,7 +91462,6 @@
 ||vlugagamb.com^$all
 ||vlxshs.asia^$all
 ||vmi2708679.contaboserver.net^$all
-||vmi2908862.contaboserver.net^$all
 ||vmi2931050.contaboserver.net^$all
 ||vmjuybsr.trustwallet.win^$all
 ||vmmessage.fra1.digitaloceanspaces.com^$all
@@ -93328,6 +93428,7 @@
 ||vvvevent.net^$all
 ||vvvevent.org^$all
 ||vvvvw-ledgar.com^$all
+||vvvvw-lladger-app.com^$all
 ||vvvvw-lladger-app.net^$all
 ||vvww-app-unicwap.pro^$all
 ||vvww-icioud-auth.info^$all
@@ -93837,7 +93938,6 @@
 ||wallet.dappconnect-tnt.com^$all
 ||wallet.exodus.com.breaking.sbs^$all
 ||wallet.gb.net^$all
-||wallet.getatlaswwallet.com^$all
 ||wallet.gift^$all
 ||wallet.index-nexus.com^$all
 ||wallet.london^$all
@@ -94571,6 +94671,7 @@
 ||web-exoduss.pages.dev^$all
 ||web-exodust.pages.dev^$all
 ||web-exoduswalet.pages.dev^$all
+||web-exoduswallet---extension.webflow.io^$all
 ||web-exodusweb3-faq.pages.dev^$all
 ||web-exodusweb3.pages.dev^$all
 ||web-exosdus-io-us.pages.dev^$all
@@ -95031,6 +95132,7 @@
 ||web3.wirexapp.tech^$all
 ||web3.xentovaria.top^$all
 ||web30-dapp.com^$all
+||web33exoduswallet.webflow.io^$all
 ||web34ftr.top^$all
 ||web3acoin.top^$all
 ||web3agenthub.cyou^$all
@@ -95405,6 +95507,7 @@
 ||websites-exodus-i227hjp0o-exodus-labs.vercel.app^$all
 ||websites-exodus-q3aid1n44-exodus-labs.vercel.app^$all
 ||webssol.xyz^$all
+||webstart-exeduso.wixstudio.com^$all
 ||webstart-exodus.wixstudio.com^$all
 ||webstore-coinbse.wixstudio.com^$all
 ||webswitchdapp.pages.dev^$all
@@ -95501,6 +95604,7 @@
 ||weddingsbymarki.com^$all
 ||wedefine.ai^$all
 ||wee3okx.top^$all
+||weeb3exoduswallet.webflow.io^$all
 ||weekly-basis-934468.framer.app^$all
 ||weekly-increase-390670.framer.app^$all
 ||weekly-up.online^$all
@@ -98220,6 +98324,7 @@
 ||xeth.info^$all
 ||xevionix.top^$all
 ||xexbestpro.com^$all
+||xexodus-wallet.webflow.io^$all
 ||xfernobb.shop^$all
 ||xfinityauthorize.online^$all
 ||xfinitycomauthorize.online^$all
