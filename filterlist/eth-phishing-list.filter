@@ -3292,7 +3292,6 @@
 ||access-lvetrezors-usa.pages.dev^$all
 ||access-matrica.live^$all
 ||access-meta.com^$all
-||access-metamask-home.pages.dev^$all
 ||access-my-ledger.com^$all
 ||access-nado.com^$all
 ||access-notification-x.com^$all
@@ -10090,6 +10089,7 @@
 ||base-extension-io.wixstudio.com^$all
 ||base-extension-nav.wixstudio.com^$all
 ||base-extension-new.wixstudio.com^$all
+||base-extension-page.wixstudio.com^$all
 ||base-extension-qoin.wixstudio.com^$all
 ||base-extension-run.wixstudio.com^$all
 ||base-extension-try.wixstudio.com^$all
@@ -14501,7 +14501,6 @@
 ||ccagzncoach.bond^$all
 ||ccascade.xyz^$all
 ||cccccash.sbs^$all
-||ccetus.com^$all
 ||ccgamb.cc^$all
 ||cchainelinklogin.webflow.io^$all
 ||ccicjx.com^$all
@@ -15498,6 +15497,7 @@
 ||checkintegrityhub.com^$all
 ||checkmarx.cx^$all
 ||checkmegaeth.com^$all
+||checkmica.com^$all
 ||checkmyaml.org^$all
 ||checkout-trust.online^$all
 ||checkout-tw.com^$all
@@ -16002,6 +16002,7 @@
 ||claim-firelightfi.live^$all
 ||claim-flare.com^$all
 ||claim-flareevm.com^$all
+||claim-flarefdn.live^$all
 ||claim-flarefoundation.live^$all
 ||claim-flarenetwork.com^$all
 ||claim-flarenetwork.live^$all
@@ -16683,6 +16684,7 @@
 ||claims-farmtown.online^$all
 ||claims-firelight.com^$all
 ||claims-firelightfi.live^$all
+||claims-flarefdn.live^$all
 ||claims-flarefoundation.live^$all
 ||claims-fluent.xyz^$all
 ||claims-fogo.xyz^$all
@@ -17770,7 +17772,6 @@
 ||coinbase-auth.pages.dev^$all
 ||coinbase-authenticate.web.app^$all
 ||coinbase-authenticator.com^$all
-||coinbase-authes.pages.dev^$all
 ||coinbase-authscv.com^$all
 ||coinbase-b2f72kabh-coinbases-projects-0278978a.vercel.app^$all
 ||coinbase-backup.app^$all
@@ -19913,7 +19914,6 @@
 ||collegearrm.bond^$all
 ||colmershill.live^$all
 ||colnbase-4pd4t3-s3rvdigital129.crabdance.com^$all
-||colnbase-accountserve.setting-accountcolnbase.handsonline.net^$all
 ||colnbase-accountserve.setting-accountcolnbase.lecheminolfative.com.br^$all
 ||colnbase-accountwallet-setting.colnbase.unkoqed.sa.com^$all
 ||colnbase-business.merchant-uk.co^$all
@@ -26021,6 +26021,7 @@
 ||drop-finder.com^$all
 ||drop-firelightfi.live^$all
 ||drop-flare.network^$all
+||drop-flarefdn.live^$all
 ||drop-flarefndn.live^$all
 ||drop-flarenetwork.live^$all
 ||drop-flarenetworks.live^$all
@@ -28675,6 +28676,7 @@
 ||entrustpros.com^$all
 ||entrustwallet.io^$all
 ||entry-drop.fun^$all
+||entry-flarefoundation.live^$all
 ||entry-moonshot.com^$all
 ||entry-virtuals.com^$all
 ||entry-world.info^$all
@@ -32264,6 +32266,7 @@
 ||extension--metamask.wixstudio.com^$all
 ||extension-app.net^$all
 ||extension-app.wixstudio.com^$all
+||extension-appsio.wixstudio.com^$all
 ||extension-base-en.wixstudio.com^$all
 ||extension-base-eng-browser.pages.dev^$all
 ||extension-base-hub.wixstudio.com^$all
@@ -34594,11 +34597,14 @@
 ||flaredsnetwork.com^$all
 ||flareee.shop^$all
 ||flareevent-dapp.live^$all
+||flareevent-gain.live^$all
+||flareevent-xrp.live^$all
 ||flarefdn-bonus.live^$all
 ||flarefdn-bonus.xyz^$all
 ||flarefdn-claims.live^$all
 ||flarefdn-dapp.live^$all
 ||flarefdn-defi.live^$all
+||flarefdn-drop.live^$all
 ||flarefdn-event.live^$all
 ||flarefdn-events.live^$all
 ||flarefdn-gain.live^$all
@@ -34607,6 +34613,7 @@
 ||flarefdn-go.live^$all
 ||flarefdn-launch.live^$all
 ||flarefdn-participate.live^$all
+||flarefdn-phase1.live^$all
 ||flarefdn-phase2.live^$all
 ||flarefdn-proposal.xyz^$all
 ||flarefdn-receive.xyz^$all
@@ -34628,6 +34635,9 @@
 ||flarefinetwork.eth.limo^$all
 ||flarefly-dapp.com^$all
 ||flarefnd-bonus.xyz^$all
+||flarefnd-gov.live^$all
+||flarefnd-gover.live^$all
+||flarefnd-governance.live^$all
 ||flarefnd-proposal.xyz^$all
 ||flarefnd-reward.xyz^$all
 ||flarefnd-rewards.xyz^$all
@@ -34646,6 +34656,7 @@
 ||flarefndn-events.xyz^$all
 ||flarefndn-gain.live^$all
 ||flarefndn-get.xyz^$all
+||flarefndn-governance.live^$all
 ||flarefndn-phase1.live^$all
 ||flarefndn-phase2.live^$all
 ||flarefndn-platform.live^$all
@@ -34668,14 +34679,17 @@
 ||flarefndn-voting.live^$all
 ||flarefndn-votings.xyz^$all
 ||flarefndn-xrp.live^$all
+||flarefoundation-access.live^$all
 ||flarefoundation-allocation.live^$all
 ||flarefoundation-allocations.live^$all
 ||flarefoundation-app.live^$all
 ||flarefoundation-bonus.live^$all
 ||flarefoundation-bonus.xyz^$all
+||flarefoundation-claim.live^$all
 ||flarefoundation-claims.live^$all
 ||flarefoundation-dapp.live^$all
 ||flarefoundation-defi.live^$all
+||flarefoundation-delegate.live^$all
 ||flarefoundation-distribution.live^$all
 ||flarefoundation-distributions.live^$all
 ||flarefoundation-event.live^$all
@@ -34683,6 +34697,7 @@
 ||flarefoundation-gateway.live^$all
 ||flarefoundation-gift.live^$all
 ||flarefoundation-gifts.live^$all
+||flarefoundation-gov.live^$all
 ||flarefoundation-governance.live^$all
 ||flarefoundation-hub.live^$all
 ||flarefoundation-join.live^$all
@@ -35923,6 +35938,7 @@
 ||gain-compound.com^$all
 ||gain-everstake.com^$all
 ||gain-flareevent.live^$all
+||gain-flarefdn.live^$all
 ||gain-flarefndn.live^$all
 ||gain-flarenetwork.live^$all
 ||gain-flarenetworks.live^$all
@@ -36154,7 +36170,6 @@
 ||gdqinsheng.com^$all
 ||gdsggff.com^$all
 ||gdxswap.com^$all
-||ge-coinbase-com.pages.dev^$all
 ||ge.208209.xyz^$all
 ||ge251.com^$all
 ||geamicni.com^$all
@@ -37161,6 +37176,7 @@
 ||go-firelightfi.live^$all
 ||go-flarefdn.live^$all
 ||go-flarefoundation.live^$all
+||go-flarefoundations.live^$all
 ||go-flyingtulip.com^$all
 ||go-fogo.xyz^$all
 ||go-goldfishgold.com^$all
@@ -37582,6 +37598,7 @@
 ||gover-firelighfi.com^$all
 ||gover-firelightfoundation.xyz^$all
 ||gover-firelightfoundations.xyz^$all
+||gover-flarefoundation.live^$all
 ||gover-flarefoundation.xyz^$all
 ||gover-flarefoundations.xyz^$all
 ||gover-flarenetworks.com^$all
@@ -79442,6 +79459,7 @@
 ||stack-kraken-web-portal.dream.space^$all
 ||stack-trust.com^$all
 ||stack-tw.com^$all
+||stack-tw.org^$all
 ||stackforger.com^$all
 ||stackforger.io^$all
 ||stackgrid.fr^$all
@@ -81137,7 +81155,6 @@
 ||super-secure-tunnel-link.cfd^$all
 ||super-union-f1e3.aedfv.workers.dev^$all
 ||superai7-gaxsc.top^$all
-||superaichats2195.pages.dev^$all
 ||superal.stakingreward.one^$all
 ||superapp-zebecnetwork.com^$all
 ||superapp.icu^$all
@@ -85908,6 +85925,7 @@
 ||trstwallet-trust.webflow.io^$all
 ||trstwalletlogiin.webflow.io^$all
 ||trstwaltlogiin.webflow.io^$all
+||trstwlt.org^$all
 ||trsusttwealleitlougi.webflow.io^$all
 ||trsutcardx.com^$all
 ||trsutewletextnsiuo.gitbook.io^$all
@@ -89140,6 +89158,7 @@
 ||twcards.net^$all
 ||twcards.org^$all
 ||twcards.pro^$all
+||twcardsup.cloud^$all
 ||twcart.help^$all
 ||twcenxiv.com^$all
 ||twcheck.finance^$all
