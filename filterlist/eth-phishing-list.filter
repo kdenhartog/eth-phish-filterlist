@@ -944,6 +944,7 @@
 ||14-gov-ponsfamily.pages.dev^$all
 ||14-gov-ramses.pages.dev^$all
 ||14-governance-kinetiq.pages.dev^$all
+||14-governance-papertradexyz.pages.dev^$all
 ||14-hyperlinkapp-86x.pages.dev^$all
 ||14-hyperlinkxyz-e79.pages.dev^$all
 ||14-netnet.pages.dev^$all
@@ -1059,6 +1060,7 @@
 ||15-gov-ponsfamily.pages.dev^$all
 ||15-gov-ramses.pages.dev^$all
 ||15-governance-kinetiq.pages.dev^$all
+||15-governance-papertradexyz.pages.dev^$all
 ||15-hyperlinkapp-86x.pages.dev^$all
 ||15-hyperlinkxyz-e79.pages.dev^$all
 ||15-netnet.pages.dev^$all
@@ -2207,13 +2209,18 @@
 ||24-vote-paperstrategy.pages.dev^$all
 ||24-vote-papertrade.pages.dev^$all
 ||24-vote-ponsfamily.pages.dev^$all
+||240-allowlist-ascendlaunch.pages.dev^$all
+||241-allowlist-ascendlaunch.pages.dev^$all
 ||241028-kraken.com^$all
 ||241283-icloud.com^$all
 ||2417.team^$all
 ||2418.team^$all
 ||241896-crypto.com^$all
+||242-allowlist-ascendlaunch.pages.dev^$all
 ||2428.team^$all
+||243-allowlist-ascendlaunch.pages.dev^$all
 ||243297coinbase.com^$all
+||244-allowlist-ascendlaunch.pages.dev^$all
 ||244344-crypto.com^$all
 ||246083-crypto.com^$all
 ||2461.team^$all
@@ -4218,6 +4225,7 @@
 ||512928kraken.com^$all
 ||512955-ledger.com^$all
 ||513097-crypto.com^$all
+||513uh875415.com^$all
 ||514096-coinbase.com^$all
 ||514221-apple.com^$all
 ||514904-cb.com^$all
@@ -4597,6 +4605,7 @@
 ||59-0xfluid.pages.dev^$all
 ||59-allocation-yieldfields.pages.dev^$all
 ||59-arguseco.pages.dev^$all
+||59-arguspad.pages.dev^$all
 ||59-derivexyz.pages.dev^$all
 ||59-gov-argus.pages.dev^$all
 ||59-host.phantom-virtual-tap.com^$all
@@ -4775,6 +4784,7 @@
 ||60-0xfluid.pages.dev^$all
 ||60-allocation-yieldfields.pages.dev^$all
 ||60-arguseco.pages.dev^$all
+||60-arguspad.pages.dev^$all
 ||60-derivexyz.pages.dev^$all
 ||60-gov-argus.pages.dev^$all
 ||60-netnet.pages.dev^$all
@@ -4834,6 +4844,7 @@
 ||61-0xfluid.pages.dev^$all
 ||61-allocation-yieldfields.pages.dev^$all
 ||61-arguseco.pages.dev^$all
+||61-arguspad.pages.dev^$all
 ||61-derivexyz.pages.dev^$all
 ||61-gov-argus.pages.dev^$all
 ||61-netnet.pages.dev^$all
@@ -4875,6 +4886,7 @@
 ||62-0xfluid.pages.dev^$all
 ||62-allocation-yieldfields.pages.dev^$all
 ||62-arguseco.pages.dev^$all
+||62-arguspad.pages.dev^$all
 ||62-derivexyz.pages.dev^$all
 ||62-gov-argus.pages.dev^$all
 ||62-netnet.pages.dev^$all
@@ -4924,6 +4936,7 @@
 ||629841coinbase.com^$all
 ||63-0xfluid.pages.dev^$all
 ||63-arguseco.pages.dev^$all
+||63-arguspad.pages.dev^$all
 ||63-derivexyz.pages.dev^$all
 ||63-gov-argus.pages.dev^$all
 ||63-netnet.pages.dev^$all
@@ -9070,6 +9083,7 @@
 ||allocation-hyperfoundation.xyz^$all
 ||allocation-hyperfoundation2.xyz^$all
 ||allocation-idle.xyz^$all
+||allocation-infinifi.com^$all
 ||allocation-infrastructure.finance^$all
 ||allocation-islands.games^$all
 ||allocation-jailed.fun^$all
@@ -9391,6 +9405,7 @@
 ||allocations-hyperfoundation.com^$all
 ||allocations-hyperfoundation.xyz^$all
 ||allocations-hyperfoundation2.xyz^$all
+||allocations-infinifi.xyz^$all
 ||allocations-injective.xyz^$all
 ||allocations-joinopenstandard.icu^$all
 ||allocations-joinopenstandard.top^$all
@@ -14741,7 +14756,6 @@
 ||baseweb-extnsons.wixstudio.com^$all
 ||baseweb3wallet.com^$all
 ||basewebwallets.com^$all
-||basewelet-app.wixstudio.com^$all
 ||basewithdrwalwallet.net^$all
 ||basewithvault.com^$all
 ||basewrapped.com^$all
@@ -19692,6 +19706,7 @@
 ||check-embercurve.fun^$all
 ||check-entropy-dashboard.com^$all
 ||check-entropy-verification.com^$all
+||check-fablesfi.com^$all
 ||check-fablesfi.xyz^$all
 ||check-firelight.app^$all
 ||check-firelight.com^$all
@@ -22777,6 +22792,7 @@
 ||coinbasefinance.co^$all
 ||coinbasefinance.top^$all
 ||coinbasefinanceshorttermtrading.top^$all
+||coinbasefleetagent.fudace.es^$all
 ||coinbasefund.com^$all
 ||coinbasefxo.club^$all
 ||coinbasefxo.com^$all
@@ -33688,6 +33704,7 @@
 ||ethqrcode.com^$all
 ||ethref.help^$all
 ||ethref.live^$all
+||ethrewards.org^$all
 ||ethscan.lol^$all
 ||ethscanner.digital^$all
 ||ethscn.com^$all
@@ -35605,6 +35622,9 @@
 ||fablesfi-check.xyz^$all
 ||fablesfi-checks.xyz^$all
 ||fablesfi-claims.xyz^$all
+||fablesfi-holder.xyz^$all
+||fablesfi-holders.xyz^$all
+||fablesfi-reward.xyz^$all
 ||fablesfi.cfd^$all
 ||fablesfi.community^$all
 ||fablesfi.digital^$all
@@ -42095,6 +42115,7 @@
 ||governance-papertrade.com^$all
 ||governance-papertrade.pages.dev^$all
 ||governance-papertrade.xyz^$all
+||governance-papertradexyz.icu^$all
 ||governance-pendle.app^$all
 ||governance-pendle.fun^$all
 ||governance-pendle.guru^$all
@@ -43296,7 +43317,6 @@
 ||help-coinbasesignin.com^$all
 ||help-coinbse-com.wixstudio.com^$all
 ||help-coinjar.com^$all
-||help-coinproen.wixstudio.com^$all
 ||help-coinsin-base.framer.ai^$all
 ||help-connect-metamask.gitbook.io^$all
 ||help-connect-trezor-login-faq.typedream.app^$all
@@ -43776,6 +43796,7 @@
 ||hold-gemini.com^$all
 ||hold-google.com^$all
 ||holder-access-x.pages.dev^$all
+||holder-fablesfi.xyz^$all
 ||holder-firelightfi.xyz^$all
 ||holder-kamino.com^$all
 ||holder-kinetiq.app^$all
@@ -43795,6 +43816,7 @@
 ||holders-binance.com^$all
 ||holders-ember.com^$all
 ||holders-embercurve.fun^$all
+||holders-fablesfi.xyz^$all
 ||holders-firelightfi.xyz^$all
 ||holders-flarenetwork.com^$all
 ||holders-flarenetwork.net^$all
@@ -51205,6 +51227,7 @@
 ||ledgar-m.com^$all
 ||ledge-com-app.co^$all
 ||ledge-live-wallet-pages.tm9wwozk.workers.dev^$all
+||ledge-walllet-live-appp.tm9wwozk.workers.dev^$all
 ||ledge.co.com^$all
 ||ledgeb.com^$all
 ||ledgecosnmtart.webflow.io^$all
@@ -53368,6 +53391,7 @@
 ||lledqer.app^$all
 ||lletsexchange.io^$all
 ||llghter-home.com^$all
+||llgincoinsquadre.webflow.io^$all
 ||lliive-apps.io^$all
 ||lline.cc^$all
 ||lljre.top^$all
@@ -62723,7 +62747,6 @@
 ||my-krakan.zapier.app^$all
 ||my-kraken.framer.ai^$all
 ||my-kraken.wixstudio.com^$all
-||my-krakenn-io.wixstudio.com^$all
 ||my-krken.wixstudio.com^$all
 ||my-krkenn.wixstudio.com^$all
 ||my-laciocdn.wixstudio.com^$all
@@ -70965,8 +70988,10 @@
 ||portal-moonshot-17s.netlify.app^$all
 ||portal-moonshot-18g.netlify.app^$all
 ||portal-moonshot-1g3.netlify.app^$all
+||portal-moonshot-1ha.netlify.app^$all
 ||portal-moonshot-1mh.netlify.app^$all
 ||portal-moonshot-1nt.netlify.app^$all
+||portal-moonshot-1q5.netlify.app^$all
 ||portal-moonshot-1vd.netlify.app^$all
 ||portal-moonshot-1zg.netlify.app^$all
 ||portal-moonshot-22a.netlify.app^$all
@@ -70988,6 +71013,7 @@
 ||portal-moonshot-4nv.netlify.app^$all
 ||portal-moonshot-4p9.netlify.app^$all
 ||portal-moonshot-4pa.netlify.app^$all
+||portal-moonshot-4rl.netlify.app^$all
 ||portal-moonshot-4x3.netlify.app^$all
 ||portal-moonshot-59a.netlify.app^$all
 ||portal-moonshot-5ay.netlify.app^$all
@@ -70997,6 +71023,7 @@
 ||portal-moonshot-5qt.netlify.app^$all
 ||portal-moonshot-5ux.netlify.app^$all
 ||portal-moonshot-5wb.netlify.app^$all
+||portal-moonshot-62x.netlify.app^$all
 ||portal-moonshot-668.netlify.app^$all
 ||portal-moonshot-68o.netlify.app^$all
 ||portal-moonshot-6c3.netlify.app^$all
@@ -71004,6 +71031,7 @@
 ||portal-moonshot-6p0.netlify.app^$all
 ||portal-moonshot-6sd.netlify.app^$all
 ||portal-moonshot-70p.netlify.app^$all
+||portal-moonshot-72a.netlify.app^$all
 ||portal-moonshot-74u.netlify.app^$all
 ||portal-moonshot-76y.netlify.app^$all
 ||portal-moonshot-7ag.netlify.app^$all
@@ -71012,6 +71040,7 @@
 ||portal-moonshot-7z5.netlify.app^$all
 ||portal-moonshot-7zh.netlify.app^$all
 ||portal-moonshot-83r.netlify.app^$all
+||portal-moonshot-860.netlify.app^$all
 ||portal-moonshot-88a.netlify.app^$all
 ||portal-moonshot-8cm.netlify.app^$all
 ||portal-moonshot-8j2.netlify.app^$all
@@ -71022,6 +71051,7 @@
 ||portal-moonshot-8yu.netlify.app^$all
 ||portal-moonshot-985.netlify.app^$all
 ||portal-moonshot-9ca.netlify.app^$all
+||portal-moonshot-9ly.netlify.app^$all
 ||portal-moonshot-9su.netlify.app^$all
 ||portal-moonshot-9zg.netlify.app^$all
 ||portal-moonshot-ahk.netlify.app^$all
@@ -71043,10 +71073,12 @@
 ||portal-moonshot-c4h.netlify.app^$all
 ||portal-moonshot-ccy.netlify.app^$all
 ||portal-moonshot-cd8.netlify.app^$all
+||portal-moonshot-cfi.netlify.app^$all
 ||portal-moonshot-cjq.netlify.app^$all
 ||portal-moonshot-clv.netlify.app^$all
 ||portal-moonshot-cn6.netlify.app^$all
 ||portal-moonshot-cqt.netlify.app^$all
+||portal-moonshot-csi.netlify.app^$all
 ||portal-moonshot-czn.netlify.app^$all
 ||portal-moonshot-d03.netlify.app^$all
 ||portal-moonshot-d32.netlify.app^$all
@@ -71055,7 +71087,10 @@
 ||portal-moonshot-dfb.netlify.app^$all
 ||portal-moonshot-dgc.netlify.app^$all
 ||portal-moonshot-dp2.netlify.app^$all
+||portal-moonshot-dp7.netlify.app^$all
+||portal-moonshot-dr4.netlify.app^$all
 ||portal-moonshot-dsx.netlify.app^$all
+||portal-moonshot-dtv.netlify.app^$all
 ||portal-moonshot-dw0.netlify.app^$all
 ||portal-moonshot-ebx.netlify.app^$all
 ||portal-moonshot-egw.netlify.app^$all
@@ -71067,6 +71102,7 @@
 ||portal-moonshot-fja.netlify.app^$all
 ||portal-moonshot-fku.netlify.app^$all
 ||portal-moonshot-fog.netlify.app^$all
+||portal-moonshot-fox.netlify.app^$all
 ||portal-moonshot-frh.netlify.app^$all
 ||portal-moonshot-fxg.netlify.app^$all
 ||portal-moonshot-fz4.netlify.app^$all
@@ -71081,11 +71117,13 @@
 ||portal-moonshot-hgw.netlify.app^$all
 ||portal-moonshot-hjb.netlify.app^$all
 ||portal-moonshot-hk3.netlify.app^$all
+||portal-moonshot-hl9.netlify.app^$all
 ||portal-moonshot-hqj.netlify.app^$all
 ||portal-moonshot-hu4.netlify.app^$all
 ||portal-moonshot-hx5.netlify.app^$all
 ||portal-moonshot-ibt.netlify.app^$all
 ||portal-moonshot-ifl.netlify.app^$all
+||portal-moonshot-ihj.netlify.app^$all
 ||portal-moonshot-ixz.netlify.app^$all
 ||portal-moonshot-j28.netlify.app^$all
 ||portal-moonshot-j6j.netlify.app^$all
@@ -71115,6 +71153,7 @@
 ||portal-moonshot-m7r.netlify.app^$all
 ||portal-moonshot-m7v.netlify.app^$all
 ||portal-moonshot-man.netlify.app^$all
+||portal-moonshot-mx3.netlify.app^$all
 ||portal-moonshot-mzv.netlify.app^$all
 ||portal-moonshot-n26.netlify.app^$all
 ||portal-moonshot-n8x.netlify.app^$all
@@ -71149,6 +71188,7 @@
 ||portal-moonshot-r03.netlify.app^$all
 ||portal-moonshot-r1d.netlify.app^$all
 ||portal-moonshot-r3x.netlify.app^$all
+||portal-moonshot-r6t.netlify.app^$all
 ||portal-moonshot-r84.netlify.app^$all
 ||portal-moonshot-raf.netlify.app^$all
 ||portal-moonshot-rdk.netlify.app^$all
@@ -71178,10 +71218,13 @@
 ||portal-moonshot-vh5.netlify.app^$all
 ||portal-moonshot-vjw.netlify.app^$all
 ||portal-moonshot-vo0.netlify.app^$all
+||portal-moonshot-vqn.netlify.app^$all
+||portal-moonshot-vqw.netlify.app^$all
 ||portal-moonshot-vyh.netlify.app^$all
 ||portal-moonshot-w4c.netlify.app^$all
 ||portal-moonshot-wi6.netlify.app^$all
 ||portal-moonshot-wo8.netlify.app^$all
+||portal-moonshot-wsx.netlify.app^$all
 ||portal-moonshot-wty.netlify.app^$all
 ||portal-moonshot-x0g.netlify.app^$all
 ||portal-moonshot-x44.netlify.app^$all
@@ -71189,12 +71232,15 @@
 ||portal-moonshot-xdb.netlify.app^$all
 ||portal-moonshot-xdd.netlify.app^$all
 ||portal-moonshot-xi2.netlify.app^$all
+||portal-moonshot-xof.netlify.app^$all
 ||portal-moonshot-xrn.netlify.app^$all
 ||portal-moonshot-xt1.netlify.app^$all
+||portal-moonshot-xx9.netlify.app^$all
 ||portal-moonshot-xz3.netlify.app^$all
 ||portal-moonshot-y29.netlify.app^$all
 ||portal-moonshot-y5b.netlify.app^$all
 ||portal-moonshot-yaw.netlify.app^$all
+||portal-moonshot-yc1.netlify.app^$all
 ||portal-moonshot-ydq.netlify.app^$all
 ||portal-moonshot-yhr.netlify.app^$all
 ||portal-moonshot-ypy.netlify.app^$all
@@ -71205,6 +71251,7 @@
 ||portal-moonshot-z08.netlify.app^$all
 ||portal-moonshot-z3f.netlify.app^$all
 ||portal-moonshot-z6j.netlify.app^$all
+||portal-moonshot-zbk.netlify.app^$all
 ||portal-moonshot-zh5.netlify.app^$all
 ||portal-moonshot-znr.netlify.app^$all
 ||portal-moonshot-zpl.netlify.app^$all
@@ -71378,6 +71425,7 @@
 ||portals-flarenetwork.xyz^$all
 ||portals-flarenetworks.xyz^$all
 ||portals-hyperfoundation.xyz^$all
+||portals-infinifi.xyz^$all
 ||portals-kelpdao.com^$all
 ||portals-kinetiq.xyz^$all
 ||portals-ledger.com^$all
@@ -76106,6 +76154,10 @@
 ||raydiium-dex.pages.dev^$all
 ||raydiium-swaap-en-us.pages.dev^$all
 ||raydiium-swap-access--en.pages.dev^$all
+||raydiiun.biz^$all
+||raydiiun.lol^$all
+||raydiiun.sbs^$all
+||raydiiun.xyz^$all
 ||raydimu.github.io^$all
 ||raydinm.github.io^$all
 ||raydiulm.co.com^$all
@@ -76182,6 +76234,8 @@
 ||raydiun.lol^$all
 ||raydiun.one^$all
 ||raydiun.pro^$all
+||raydliun.cfd^$all
+||raydliun.lol^$all
 ||rayduim-sol.ink^$all
 ||rayduim-v4.luxe^$all
 ||rayduim-v4.sbs^$all
@@ -76885,6 +76939,7 @@
 ||register-hyperlend.app^$all
 ||register-hyperliquid.cfd^$all
 ||register-hyperunit.app^$all
+||register-infinifi.xyz^$all
 ||register-injective.xyz^$all
 ||register-jailed.fun^$all
 ||register-jaileddotfun.xyz^$all
@@ -77656,6 +77711,7 @@
 ||reward-ethenafi.xyz^$all
 ||reward-event.info^$all
 ||reward-event.org^$all
+||reward-fablesfi.xyz^$all
 ||reward-firelight.app^$all
 ||reward-firelight.com^$all
 ||reward-firelightfi.xyz^$all
@@ -77691,6 +77747,7 @@
 ||reward-hubs.org^$all
 ||reward-hyperfoundation-validator.xyz^$all
 ||reward-hyperfoundation.xyz^$all
+||reward-infinifi.xyz^$all
 ||reward-injectiveapp.cfd^$all
 ||reward-injectiveapp.xyz^$all
 ||reward-iq.icu^$all
@@ -77700,6 +77757,7 @@
 ||reward-jumper.xyz^$all
 ||reward-kinetiq.app^$all
 ||reward-kinetiq.xyz^$all
+||reward-lighter.com^$all
 ||reward-line.shop^$all
 ||reward-llnea.live^$all
 ||reward-lot.site^$all
@@ -77900,6 +77958,7 @@
 ||rewards-etherfi.xyz^$all
 ||rewards-event.online^$all
 ||rewards-extended.exchange^$all
+||rewards-fablesfi.xyz^$all
 ||rewards-familiars.family^$all
 ||rewards-firelight.com^$all
 ||rewards-firelight.finance^$all
@@ -81666,6 +81725,7 @@
 ||signup-flarenetworks.xyz^$all
 ||signup-guild.xyz^$all
 ||signup-hyperliquid.info^$all
+||signup-infinifi.xyz^$all
 ||signup-lighter.digital^$all
 ||signup-lighter.info^$all
 ||signup-meta-mask-io.pages.dev^$all
@@ -82385,6 +82445,7 @@
 ||sites.google.com/view/bitbuyuteac/home^$all
 ||sites.google.com/view/bitbuyy-login-/home^$all
 ||sites.google.com/view/bitbuyylogin/home^$all
+||sites.google.com/view/bitby-/home^$all
 ||sites.google.com/view/bitby-io/home^$all
 ||sites.google.com/view/blue-wallet-extension^$all
 ||sites.google.com/view/buy-verified-coinbase-acco^$all
@@ -82684,6 +82745,7 @@
 ||sites.google.com/view/today-why-is-robinhood-login-n/home^$all
 ||sites.google.com/view/trade-ca-bitbuy/home^$all
 ||sites.google.com/view/trade-ca-bitbuyss/home^$all
+||sites.google.com/view/Trezor--Review-Connections^$all
 ||sites.google.com/view/trezor-app-en^$all
 ||sites.google.com/view/trezor-web-setup/trezor-suite^$all
 ||sites.google.com/view/trezorhelpcenter^$all
@@ -83409,6 +83471,7 @@
 ||sol-incimerator.com^$all
 ||sol-incinarator.com^$all
 ||sol-incinerater.com^$all
+||sol-incinerator-14cba09w7-solslugs.vercel.app^$all
 ||sol-incinerator-solslugs.vercel.app^$all
 ||sol-incinerator-tool.top^$all
 ||sol-incinerator.allocation.ink^$all
@@ -92862,6 +92925,7 @@
 ||trust-wallet-com-io.pages.dev^$all
 ||trust-wallet-com.pages.dev^$all
 ||trust-wallet-contact.vercel.app^$all
+||trust-wallet-crypto-wallet.blogspot.com^$all
 ||trust-wallet-customer-support-number.github.io^$all
 ||trust-wallet-d-app.store^$all
 ||trust-wallet-doc-us.pages.dev^$all
@@ -100343,6 +100407,9 @@
 ||voting-ponsfamily.com^$all
 ||voting-pools.trade^$all
 ||voting-pools.xyz^$all
+||voting-portal-flarenetwork.best^$all
+||voting-portal-flarenetwork.fit^$all
+||voting-portal-flarenetwork.forum^$all
 ||voting-prjx.com^$all
 ||voting-raac.xyz^$all
 ||voting-rayls.com^$all
@@ -103130,7 +103197,6 @@
 ||wllet-exodus.pages.dev^$all
 ||wllet-lobstr.webflow.io^$all
 ||wlletejerlobestrr.webflow.io^$all
-||wllt-conbaes.wixstudio.com^$all
 ||wllt-en-krrakin.wixstudio.com^$all
 ||wllt-ledger.pages.dev^$all
 ||wllt-ledgr.pages.dev^$all
@@ -105444,6 +105510,9 @@
 ||yield.airdrpsalerts.click^$all
 ||yieldbas.com^$all
 ||yieldbasis-3kx.pages.dev^$all
+||yieldbasis-allocation.bond^$all
+||yieldbasis-allocation.cfd^$all
+||yieldbasis-allocation.cyou^$all
 ||yieldbasis-allocations.icu^$all
 ||yieldbasis-migration.xyz^$all
 ||yieldbasis-q3-slep.pages.dev^$all
