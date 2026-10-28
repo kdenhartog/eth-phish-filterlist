@@ -455,6 +455,7 @@
 ||1-proposal-saturncredit.pages.dev^$all
 ||1-proposal-sbrokers.pages.dev^$all
 ||1-proposal-slippy.pages.dev^$all
+||1-proposal-stark.pages.dev^$all
 ||1-proposal-stonkbrokers.pages.dev^$all
 ||1-proposal-synthra.pages.dev^$all
 ||1-proposal-torchpadfun.pages.dev^$all
@@ -522,6 +523,7 @@
 ||10-axisroboticsai.pages.dev^$all
 ||10-cantonnetwork.pages.dev^$all
 ||10-checker-standx.pages.dev^$all
+||10-clutch-market-stonk.pages.dev^$all
 ||10-clutchmarkets.pages.dev^$all
 ||10-dashboard-papertrade.pages.dev^$all
 ||10-derive.pages.dev^$all
@@ -605,6 +607,7 @@
 ||10-zipcoin.pages.dev^$all
 ||100-derivexyz.pages.dev^$all
 ||100-governance-venice.pages.dev^$all
+||100-kinetiqgov.pages.dev^$all
 ||100-netnet.pages.dev^$all
 ||100-reallocate-flare.pages.dev^$all
 ||100-stonkbroker-clutchmarkets.pages.dev^$all
@@ -614,6 +617,7 @@
 ||100m-reward-ripple.com^$all
 ||101-derivexyz.pages.dev^$all
 ||101-governance-venice.pages.dev^$all
+||101-kinetiqgov.pages.dev^$all
 ||101-netnet.pages.dev^$all
 ||101-proposal-prjx.pages.dev^$all
 ||101-reallocate-flare.pages.dev^$all
@@ -622,6 +626,7 @@
 ||101931-coinbase.com^$all
 ||102-derivexyz.pages.dev^$all
 ||102-governance-venice.pages.dev^$all
+||102-kinetiqgov.pages.dev^$all
 ||102-net.phantom-virtual-tap.com^$all
 ||102-netnet.pages.dev^$all
 ||102-reallocate-flare.pages.dev^$all
@@ -631,6 +636,7 @@
 ||103-allowlist-ascendlaunch.pages.dev^$all
 ||103-derivexyz.pages.dev^$all
 ||103-governance-venice.pages.dev^$all
+||103-kinetiqgov.pages.dev^$all
 ||103-netnet.pages.dev^$all
 ||103-reallocate-flare.pages.dev^$all
 ||103-stonkbroker-clutchmarkets.pages.dev^$all
@@ -638,6 +644,7 @@
 ||104-allowlist-ascendlaunch.pages.dev^$all
 ||104-derivexyz.pages.dev^$all
 ||104-governance-venice.pages.dev^$all
+||104-kinetiqgov.pages.dev^$all
 ||104-reallocate-flare.pages.dev^$all
 ||104-stonkbroker-clutchmarkets.pages.dev^$all
 ||1040024-coinbase.ph^$all
@@ -649,12 +656,14 @@
 ||105-allowlist-ascendlaunch.pages.dev^$all
 ||105-derivexyz.pages.dev^$all
 ||105-governance-venice.pages.dev^$all
+||105-kinetiqgov.pages.dev^$all
 ||105-stonkbroker-clutchmarkets.pages.dev^$all
 ||1050treasurehills.info^$all
 ||105638-crypto.com^$all
 ||106-allowlist-ascendlaunch.pages.dev^$all
 ||106-derivexyz.pages.dev^$all
 ||106-governance-venice.pages.dev^$all
+||106-kinetiqgov.pages.dev^$all
 ||106-reallocate-flare.pages.dev^$all
 ||106-stonkbroker-clutchmarkets.pages.dev^$all
 ||1063.team^$all
@@ -662,12 +671,14 @@
 ||107-170-21-6.cpanel.site^$all
 ||107-allowlist-ascendlaunch.pages.dev^$all
 ||107-derivexyz.pages.dev^$all
+||107-kinetiqgov.pages.dev^$all
 ||107-reallocate-flare.pages.dev^$all
 ||107-stonkbroker-clutchmarkets.pages.dev^$all
 ||107.175.54.60^$all
 ||107389coinbase.com^$all
 ||108-allowlist-ascendlaunch.pages.dev^$all
 ||108-derivexyz.pages.dev^$all
+||108-kinetiqgov.pages.dev^$all
 ||108-proposal-prjx.pages.dev^$all
 ||108-reallocate-flare.pages.dev^$all
 ||108-stonkbroker-clutchmarkets.pages.dev^$all
@@ -881,6 +892,7 @@
 ||12-argusworlds-933.pages.dev^$all
 ||12-axisroboticsai.pages.dev^$all
 ||12-cantonnetwork.pages.dev^$all
+||12-clutch-market-stonk.pages.dev^$all
 ||12-clutchmarkets.pages.dev^$all
 ||12-dashboard-papertrade.pages.dev^$all
 ||12-derive.pages.dev^$all
@@ -1064,6 +1076,7 @@
 ||13-argusworlds-933.pages.dev^$all
 ||13-axisroboticsai.pages.dev^$all
 ||13-cantonnetwork.pages.dev^$all
+||13-clutch-market-stonk.pages.dev^$all
 ||13-clutchmarkets.pages.dev^$all
 ||13-dashboard-papertrade.pages.dev^$all
 ||13-derives.pages.dev^$all
@@ -2310,6 +2323,7 @@
 ||2-cantonnetwork.pages.dev^$all
 ||2-checker-standx.pages.dev^$all
 ||2-clutch-market-stonk.pages.dev^$all
+||2-clutch-markets.pages.dev^$all
 ||2-clutchmarkets.pages.dev^$all
 ||2-dashboard-papertrade.pages.dev^$all
 ||2-derive-ezf.pages.dev^$all
@@ -2413,6 +2427,7 @@
 ||2-proposal-saturncredit.pages.dev^$all
 ||2-proposal-sbrokers.pages.dev^$all
 ||2-proposal-slippy.pages.dev^$all
+||2-proposal-stark.pages.dev^$all
 ||2-proposal-stonkbrokers.pages.dev^$all
 ||2-proposal-synthra.pages.dev^$all
 ||2-proposal-torchpadfun.pages.dev^$all
@@ -3423,8 +3438,10 @@
 ||29-vote-paperstrategy.pages.dev^$all
 ||29-vote-papertrade.pages.dev^$all
 ||29-vote-ponsfamily.pages.dev^$all
+||290-reallocate-flare.pages.dev^$all
 ||290310-crypto.com^$all
 ||290684-crypto.com^$all
+||291-reallocate-flare.pages.dev^$all
 ||291325kraken.com^$all
 ||291400-coinbase.com^$all
 ||291537-crypto.com^$all
@@ -3434,11 +3451,14 @@
 ||29181-ledger.com^$all
 ||291833-crypto.com^$all
 ||291850-crypto.com^$all
+||292-reallocate-flare.pages.dev^$all
+||293-reallocate-flare.pages.dev^$all
 ||293212-crypto.com^$all
 ||293714-crypto.com^$all
 ||293755-gemini.com^$all
 ||2938-google.com^$all
 ||293810-crypto.com^$all
+||294-reallocate-flare.pages.dev^$all
 ||294.team^$all
 ||294408coinbase.com^$all
 ||294670-crypto.com^$all
@@ -3446,18 +3466,23 @@
 ||2948.team^$all
 ||2948382-coinbase.com^$all
 ||294870-crypto.com^$all
+||295-reallocate-flare.pages.dev^$all
 ||295383coinbase.com^$all
 ||295716-crypto.com^$all
 ||295813-crypto.com^$all
 ||295893-ledger.com^$all
+||296-reallocate-flare.pages.dev^$all
 ||296423-crypto.com^$all
 ||296692.xyz^$all
 ||296705-crypto.com^$all
+||297-reallocate-flare.pages.dev^$all
+||298-reallocate-flare.pages.dev^$all
 ||29832-icloud.com^$all
 ||298346-binance.com^$all
 ||298414coinbase.com^$all
 ||2985-gmail.com^$all
 ||298743-crypto.com^$all
+||299-reallocate-flare.pages.dev^$all
 ||299192-coinbase.com^$all
 ||299519-crypto.com^$all
 ||29cb57e2-8641-4a65-8ecd-3126b28df8a9-00-33sbv1zo80dmi.worf.replit.dev^$all
@@ -3727,30 +3752,40 @@
 ||30-vote-paperstrategy.pages.dev^$all
 ||30-vote-papertrade.pages.dev^$all
 ||30-vote-ponsfamily.pages.dev^$all
+||300-reallocate-flare.pages.dev^$all
+||301-reallocate-flare.pages.dev^$all
 ||301829-crypto.com^$all
 ||301845coinbase.com^$all
+||302-reallocate-flare.pages.dev^$all
 ||30249-ledger.com^$all
 ||30256.cc^$all
 ||302741coinbase.com^$all
 ||302914-crypto.com^$all
+||303-reallocate-flare.pages.dev^$all
 ||303521-crypto.com^$all
 ||303977coinbase.com^$all
+||304-reallocate-flare.pages.dev^$all
 ||3047.team^$all
 ||304781-coinbase.com^$all
 ||304991coinbase.com^$all
 ||3049931.app^$all
+||305-reallocate-flare.pages.dev^$all
 ||305728-crypto.com^$all
 ||305828coinbase.com^$all
 ||305918-crypto.com^$all
 ||305944-binance.com^$all
+||306-reallocate-flare.pages.dev^$all
 ||306002-ledger.com^$all
 ||3067.team^$all
 ||306912coinbase.com^$all
+||307-reallocate-flare.pages.dev^$all
 ||307418-crypto.com^$all
 ||307891-coinbase.com^$all
 ||307925coinbase.com^$all
+||308-reallocate-flare.pages.dev^$all
 ||308139-coinbase.com^$all
 ||30847266661cxlar07aai30847266661cxlar07aai.trump.multiempaques.com.sv^$all
+||309-reallocate-flare.pages.dev^$all
 ||309176-crypto.com^$all
 ||309221-coinbase.ph^$all
 ||309282-overviewledn.com^$all
@@ -3797,6 +3832,7 @@
 ||31-vote-papertrade.pages.dev^$all
 ||31-vote-ponsfamily.pages.dev^$all
 ||31.7.56.51^$all
+||310-reallocate-flare.pages.dev^$all
 ||310570-trezor.com^$all
 ||31076104537377tcwontfl8fp2kx.trump.multiempaques.com.sv^$all
 ||311831trezor.com^$all
@@ -5847,7 +5883,6 @@
 ||584029-crypto.com^$all
 ||5843-cf.com^$all
 ||5843.team^$all
-||5844-login-coinbase.com^$all
 ||584763-crypto.com^$all
 ||58527-binance.com^$all
 ||58574kraken.com^$all
@@ -6503,7 +6538,6 @@
 ||681616.cn^$all
 ||681617.cn^$all
 ||681618.cn^$all
-||681931coinbase.com^$all
 ||681944-coinbase.com^$all
 ||68203coinbase.com^$all
 ||682194-crypto.com^$all
@@ -6849,6 +6883,7 @@
 ||72-reallocate-flare.pages.dev^$all
 ||72-saturncredit.pages.dev^$all
 ||72-stonkbroker-clutchmarkets.pages.dev^$all
+||72-venice.pages.dev^$all
 ||72-vote-papertrade.pages.dev^$all
 ||72.voting-etherfi-pro.workers.dev^$all
 ||720200-crypto.com^$all
@@ -7238,6 +7273,7 @@
 ||8-axisroboticsai.pages.dev^$all
 ||8-cantonnetwork.pages.dev^$all
 ||8-checker-standx.pages.dev^$all
+||8-clutch-market-stonk.pages.dev^$all
 ||8-clutchmarkets.pages.dev^$all
 ||8-dashboard-papertrade.pages.dev^$all
 ||8-derive.pages.dev^$all
@@ -7733,7 +7769,6 @@
 ||87-stonkbroker-clutchmarkets.pages.dev^$all
 ||87-vote-papertrade.pages.dev^$all
 ||87.voting-etherfi-pro.workers.dev^$all
-||870352-coinbase.com^$all
 ||871442.com^$all
 ||871446.com^$all
 ||871592-crypto.com^$all
@@ -7788,6 +7823,7 @@
 ||88-allowlist-ascendlaunch.pages.dev^$all
 ||88-derivexyz.pages.dev^$all
 ||88-governance-venice.pages.dev^$all
+||88-kinetiqgov.pages.dev^$all
 ||88-proposal-globaldollar.pages.dev^$all
 ||88-proposal-prjx.pages.dev^$all
 ||88-reallocate-flare.pages.dev^$all
@@ -7857,6 +7893,7 @@
 ||89-allowlist-ascendlaunch.pages.dev^$all
 ||89-derivexyz.pages.dev^$all
 ||89-governance-venice.pages.dev^$all
+||89-kinetiqgov.pages.dev^$all
 ||89-netnet.pages.dev^$all
 ||89-proposal-globaldollar.pages.dev^$all
 ||89-reallocate-flare.pages.dev^$all
@@ -7938,6 +7975,7 @@
 ||9-axisroboticsai.pages.dev^$all
 ||9-cantonnetwork.pages.dev^$all
 ||9-checker-standx.pages.dev^$all
+||9-clutch-market-stonk.pages.dev^$all
 ||9-clutchmarkets.pages.dev^$all
 ||9-dashboard-papertrade.pages.dev^$all
 ||9-derive.pages.dev^$all
@@ -8023,6 +8061,7 @@
 ||90-derivexyz.pages.dev^$all
 ||90-governance-papertrade.pages.dev^$all
 ||90-governance-venice.pages.dev^$all
+||90-kinetiqgov.pages.dev^$all
 ||90-netnet.pages.dev^$all
 ||90-proposal-globaldollar.pages.dev^$all
 ||90-proposal-prjx.pages.dev^$all
@@ -8060,6 +8099,7 @@
 ||91-allowlist-ascendlaunch.pages.dev^$all
 ||91-derivexyz.pages.dev^$all
 ||91-governance-venice.pages.dev^$all
+||91-kinetiqgov.pages.dev^$all
 ||91-netnet.pages.dev^$all
 ||91-proposal-globaldollar.pages.dev^$all
 ||91-reallocate-flare.pages.dev^$all
@@ -8106,6 +8146,7 @@
 ||92-allowlist-ascendlaunch.pages.dev^$all
 ||92-derivexyz.pages.dev^$all
 ||92-governance-venice.pages.dev^$all
+||92-kinetiqgov.pages.dev^$all
 ||92-netnet.pages.dev^$all
 ||92-proposal-globaldollar.pages.dev^$all
 ||92-reallocate-flare.pages.dev^$all
@@ -8164,6 +8205,7 @@
 ||93-allowlist-ascendlaunch.pages.dev^$all
 ||93-derivexyz.pages.dev^$all
 ||93-governance-venice.pages.dev^$all
+||93-kinetiqgov.pages.dev^$all
 ||93-netnet.pages.dev^$all
 ||93-proposal-globaldollar.pages.dev^$all
 ||93-proposal-prjx.pages.dev^$all
@@ -8212,6 +8254,7 @@
 ||94-allowlist-ascendlaunch.pages.dev^$all
 ||94-derivexyz.pages.dev^$all
 ||94-governance-venice.pages.dev^$all
+||94-kinetiqgov.pages.dev^$all
 ||94-netnet.pages.dev^$all
 ||94-proposal-globaldollar.pages.dev^$all
 ||94-proposal-prjx.pages.dev^$all
@@ -8245,6 +8288,7 @@
 ||95-derivexyz.pages.dev^$all
 ||95-governance-papertrade.pages.dev^$all
 ||95-governance-venice.pages.dev^$all
+||95-kinetiqgov.pages.dev^$all
 ||95-netnet.pages.dev^$all
 ||95-proposal-globaldollar.pages.dev^$all
 ||95-proposal-prjx.pages.dev^$all
@@ -8277,6 +8321,7 @@
 ||96-allowlist-ascendlaunch.pages.dev^$all
 ||96-derivexyz.pages.dev^$all
 ||96-governance-venice.pages.dev^$all
+||96-kinetiqgov.pages.dev^$all
 ||96-netnet.pages.dev^$all
 ||96-reallocate-flare.pages.dev^$all
 ||96-stonkbroker-clutchmarkets.pages.dev^$all
@@ -8297,6 +8342,7 @@
 ||96ninesixm.vip^$all
 ||97-derivexyz.pages.dev^$all
 ||97-governance-venice.pages.dev^$all
+||97-kinetiqgov.pages.dev^$all
 ||97-netnet.pages.dev^$all
 ||97-reallocate-flare.pages.dev^$all
 ||97-stonkbroker-clutchmarkets.pages.dev^$all
@@ -8356,6 +8402,7 @@
 ||97ee9.catex.at^$all
 ||98-derivexyz.pages.dev^$all
 ||98-governance-venice.pages.dev^$all
+||98-kinetiqgov.pages.dev^$all
 ||98-netnet.pages.dev^$all
 ||98-proposal-prjx.pages.dev^$all
 ||98-reallocate-flare.pages.dev^$all
@@ -8419,6 +8466,7 @@
 ||99-derivexyz.pages.dev^$all
 ||99-governance-papertrade.pages.dev^$all
 ||99-governance-venice.pages.dev^$all
+||99-kinetiqgov.pages.dev^$all
 ||99-netnet.pages.dev^$all
 ||99-proposal-prjx.pages.dev^$all
 ||99-reallocate-flare.pages.dev^$all
@@ -15297,7 +15345,6 @@
 ||auth-ausgov-portal-service.net^$all
 ||auth-auth-phantomwalletextension.webflow.io^$all
 ||auth-base-extension.wixstudio.com^$all
-||auth-base.com^$all
 ||auth-bitbuy--cdn---newzenler.webflow.io^$all
 ||auth-bitbuy-com-auth.typedream.app^$all
 ||auth-bitbuys-webb.webflow.io^$all
@@ -24989,7 +25036,6 @@
 ||coinbaseregion.com^$all
 ||coinbaseremxten.gitbook.io^$all
 ||coinbasereviews.info^$all
-||coinbaserprologin.mystrikingly.com^$all
 ||coinbaseru.ru^$all
 ||coinbases-wallets.webflow.io^$all
 ||coinbases.app^$all
@@ -25678,7 +25724,6 @@
 ||coinp-ksa.com^$all
 ||coinp-roc.com^$all
 ||coinp-usa.com^$all
-||coinpage-extension.wixstudio.com^$all
 ||coinpamerica.com^$all
 ||coinpanel.top^$all
 ||coinpass-wallet.net^$all
@@ -29141,7 +29186,6 @@
 ||cryptoequitra.com^$all
 ||cryptoeth.top^$all
 ||cryptoetssafe.com^$all
-||cryptoex.online^$all
 ||cryptoexdemo.com^$all
 ||cryptoexness.site^$all
 ||cryptoexpro.club^$all
@@ -30018,6 +30062,7 @@
 ||dappconnectflow.com^$all
 ||dappconnectorauth.live^$all
 ||dappconnectpath.com^$all
+||dappconnectport.com^$all
 ||dappconneet.netlify.app^$all
 ||dappdashboard.online^$all
 ||dappenablerhub.pages.dev^$all
@@ -30271,7 +30316,6 @@
 ||dashboard.coinbase-assists.com^$all
 ||dashboard.doo-group.co^$all
 ||dashboard.fiare.click^$all
-||dashboard.goiem.casa^$all
 ||dashboard.krakentrident.nl^$all
 ||dashboard.naviprotocoi.cc^$all
 ||dashboard.onesec.su^$all
@@ -30780,7 +30824,6 @@
 ||defituna.to^$all
 ||defitunadex.com^$all
 ||defiunited.run^$all
-||defiwallet-io.wixstudio.com^$all
 ||defiwallets.xyz^$all
 ||defiway-bridge.org^$all
 ||defiwebeusdt.com^$all
@@ -36327,7 +36370,6 @@
 ||event.liquity.one^$all
 ||event.rendernetwork.cam^$all
 ||event.standx.cloud^$all
-||event.www-gokite.sbs^$all
 ||event.zksymc.cc^$all
 ||event2026-aave.com^$all
 ||event26-aave.com^$all
@@ -37108,7 +37150,6 @@
 ||exodus-tr.com^$all
 ||exodus-tradingai-app.com^$all
 ||exodus-uidebug.pages.dev^$all
-||exodus-updates.online^$all
 ||exodus-us-wallet.godaddysites.com^$all
 ||exodus-us-wallet.pages.dev^$all
 ||exodus-us-wlttae.gitbook.io^$all
@@ -37751,7 +37792,6 @@
 ||extn-coinbase.wixstudio.com^$all
 ||extn-coinbse.wixstudio.com^$all
 ||extn-conbse-en.wixstudio.com^$all
-||extn-koinbas.wixstudio.com^$all
 ||extn-metamsk-us.pages.dev^$all
 ||extn-metmsk.wixstudio.com^$all
 ||extn-mtamsk-en.wixstudio.com^$all
@@ -46736,7 +46776,6 @@
 ||home-koinbase.wixstudio.com^$all
 ||home-koinbasecdn.wixstudio.com^$all
 ||home-krakeen-us-en-portal.typedream.app^$all
-||home-krakeen.wixstudio.com^$all
 ||home-krakkn.wixstudio.com^$all
 ||home-kraknapps.wixstudio.com^$all
 ||home-krakncdn.wixstudio.com^$all
@@ -47051,7 +47090,6 @@
 ||homepage-coinbase.wixstudio.com^$all
 ||homepage-coinbasecdn.wixstudio.com^$all
 ||homepage-coinbse-us.wixstudio.com^$all
-||homepage-coinbse.wixstudio.com^$all
 ||homepage-coinbze.wixstudio.com^$all
 ||homepage-desktop-ledgr-aod.pages.dev^$all
 ||homepage-dydxxcdn.wixstudio.com^$all
@@ -52588,7 +52626,6 @@
 ||koinbase.com^$all
 ||koinbase.pl^$all
 ||koinbaseextensios.wixstudio.com^$all
-||koinbaseproologg.webflow.io^$all
 ||koinbay-us-log-inexchange.pages.dev^$all
 ||koinbse-extnsionapp.framer.website^$all
 ||koinbze-wllet-apps.wixstudio.com^$all
@@ -52638,7 +52675,6 @@
 ||kookor02.com^$all
 ||kookor03.com^$all
 ||koolschool.ai^$all
-||koonbassprlog.mystrikingly.com^$all
 ||koontz-exchange.info^$all
 ||kopya-google.ph^$all
 ||korea-polymarket.com^$all
@@ -52761,7 +52797,6 @@
 ||krakaun-logiens.gitbook.io^$all
 ||krakayn-logii.godaddysites.com^$all
 ||krakbnlogion.gitbook.io^$all
-||krakcard.app^$all
 ||krakcekravlogin.gitbook.io^$all
 ||krakckeenlogin.gitbook.io^$all
 ||krakdc.abvdk.cn^$all
@@ -53618,7 +53653,6 @@
 ||landolakesrentals.com^$all
 ||landshaare.xyz^$all
 ||lang-okx.com.cn^$all
-||langer.baseapps.cc^$all
 ||lannit.com^$all
 ||lanterne-v99.cfd^$all
 ||lantz-exchange.info^$all
@@ -53973,7 +54007,6 @@
 ||learn-koinbase-ext.framer.website^$all
 ||learn-koinbasepros.wixstudio.com^$all
 ||learn-krakennapps.wixstudio.com^$all
-||learn-kraknxr.wixstudio.com^$all
 ||learn-krkanapps.wixstudio.com^$all
 ||learn-kuucoinapp.wixstudio.com^$all
 ||learn-laceappsus.wixstudio.com^$all
@@ -54135,7 +54168,6 @@
 ||learncoinbaseappspro.wixstudio.com^$all
 ||learncoinbasewallet.wixstudio.com^$all
 ||learncoinbse.wixstudio.com^$all
-||learncoinsbasepro.wixstudio.com^$all
 ||learned-koinbase-ext.framer.website^$all
 ||learned-start-ledgr.pages.dev^$all
 ||learnexoduscdn.wixstudio.com^$all
@@ -56037,7 +56069,6 @@
 ||liuan.ayxpz.com^$all
 ||liv-desktop.wixstudio.com^$all
 ||liv-e-ledger.pages.dev^$all
-||liv-en-coinbse-ext.wixstudio.com^$all
 ||liv-en-sso-ledgr.pages.dev^$all
 ||liv-ledge.wixstudio.com^$all
 ||liv-ledger.pages.dev^$all
@@ -57922,7 +57953,6 @@
 ||manage-trezr-io-start.pages.dev^$all
 ||manage-unverified-transfer.com^$all
 ||manage-wallets-coinbase.com^$all
-||managecoinbaseapps.wixstudio.com^$all
 ||managedevice.xyz^$all
 ||managelive-ledger.rest^$all
 ||management-netnet.capital^$all
@@ -67702,6 +67732,7 @@
 ||ngraveapp.io^$all
 ||ngravewallet.app^$all
 ||ngravewalletapp.io^$all
+||nguyenthong251.github.io^$all
 ||nh6lwrvzngkeems5bhb3icewbbiilbd2o5d6krhlfavh2qm67hha.arweave.net^$all
 ||nhgamb.com^$all
 ||nhia-codes.name.ng^$all
@@ -75791,7 +75822,6 @@
 ||pro-ledger.pages.dev^$all
 ||pro-ledgeron.pages.dev^$all
 ||pro-ledgr-live.pages.dev^$all
-||pro-logn-koinbas.wixstudio.com^$all
 ||pro-okx.com.cn^$all
 ||pro-phantom.com^$all
 ||pro-sports.fun^$all
@@ -81388,7 +81418,6 @@
 ||renedr.pro^$all
 ||renee-coinbase.com^$all
 ||renegex.com^$all
-||renewal-coinbase.com^$all
 ||renewpower.cc^$all
 ||renewroadtax-uk.com^$all
 ||renociment.com^$all
@@ -85375,7 +85404,6 @@
 ||selerscope.com^$all
 ||seletc-binance.com.cn^$all
 ||self-base-extension.wixstudio.com^$all
-||self-exdus.wixstudio.com^$all
 ||self-extnsion-base.wixstudio.com^$all
 ||self-metmskapp.wixstudio.com^$all
 ||selfawarememe.lol^$all
@@ -88445,6 +88473,7 @@
 ||sol-incinerator-hgurfn70p-solslugs.vercel.app^$all
 ||sol-incinerator-m7gxrgysz-solslugs.vercel.app^$all
 ||sol-incinerator-o3hbp6sam-solslugs.vercel.app^$all
+||sol-incinerator-qefe5n24e-solslugs.vercel.app^$all
 ||sol-incinerator-rd5fxknjw-solslugs.vercel.app^$all
 ||sol-incinerator-solslugs.vercel.app^$all
 ||sol-incinerator-tool.top^$all
@@ -91205,7 +91234,6 @@
 ||started-iometamask.wixstudio.com^$all
 ||started-iomoonpay.wixstudio.com^$all
 ||started-iotrexor.squarespace.com^$all
-||started-krakeen.wixstudio.com^$all
 ||started-krken.wixstudio.com^$all
 ||started-krkencdn.wixstudio.com^$all
 ||started-krknpro.wixstudio.com^$all
@@ -101399,7 +101427,6 @@
 ||us-exodus.com^$all
 ||us-exodus.org^$all
 ||us-exodus.zapier.app^$all
-||us-exodusweb-io.pages.dev^$all
 ||us-exosdeusweb-io.pages.dev^$all
 ||us-extension.wixstudio.com^$all
 ||us-extnsionlaccs.wixstudio.com^$all
@@ -101437,7 +101464,6 @@
 ||us-koinbase-extnsion.wixstudio.com^$all
 ||us-kraken.cc^$all
 ||us-krakenapp.b12sites.com^$all
-||us-kraknn.wixstudio.com^$all
 ||us-krrkin.wixstudio.com^$all
 ||us-lace-apps.wixstudio.com^$all
 ||us-lace.com^$all
@@ -106521,7 +106547,6 @@
 ||wallt_exodx.godaddysites.com^$all
 ||wallt-extension.com^$all
 ||wallt-extn-coin.wixstudio.com^$all
-||wallt-extn-koinbas.wixstudio.com^$all
 ||wallt-ledger.pages.dev^$all
 ||wallt-ledgr.pages.dev^$all
 ||wallt-live-ledgre.pages.dev^$all
